@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 from parse_program import parse_people, parse_affiliations, detect_presenter, session_areas, parse_page
 from normalize_affiliations import AliasTable, normalize_row
+from build_report import ranking, pct
 
 
 def html(text):
@@ -102,6 +103,23 @@ class NormalizationTest(unittest.TestCase):
         table.aliases['曖昧']={'甲大学','乙大学'}
         table.forms['曖昧理']={'曖昧'}
         self.assertEqual(table.resolve('曖昧理'),('曖昧',None,'ambiguous_alias'))
+
+
+class RankingTest(unittest.TestCase):
+    def test_ranking_deduplicates_intra_presentation_affiliation(self):
+        rows = [
+            {'affiliation_official': '["東京大学", "東京大学"]'},
+            {'affiliation_official': '["京都大学", null]'},
+            {'affiliation_official': '["東京大学"]'},
+        ]
+        self.assertEqual(ranking(rows), [
+            {'rank': 1, 'official_name': '東京大学', 'count': 2},
+            {'rank': 2, 'official_name': '京都大学', 'count': 1},
+        ])
+
+    def test_percentage_uses_lecture_denominator(self):
+        self.assertEqual(pct(1, 3), '33.33%')
+        self.assertEqual(pct(1, 0), '0.00%')
 
 
 @unittest.skipUnless(Path('output/extraction_summary.json').exists(), '生成済みデータがないため実データの照合を省略')

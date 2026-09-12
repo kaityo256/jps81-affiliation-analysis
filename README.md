@@ -3,11 +3,15 @@
 公開HTMLから登壇者の所属を講演単位で調べるプロジェクトです。
 対象・集計規則は [PLAN.md](PLAN.md)、作業時の実行規則は [AGENTS.md](AGENTS.md) を参照してください。
 
-取得、登壇者抽出、所属の正規化、領域別CSV・未解決一覧の生成を実装しています。大会前の取得結果は暫定版です。ランキング・最終報告書の生成と、検索画面・日程別一覧との取得範囲の突合は未実装です。
+ランキング結果：[output/report.md](output/report.md)
+
+本調査は、公開されている第81回年次大会のプログラムを用いて、筆者が個人の立場で行った分析です。日本物理学会および筆者の所属機関による公式調査・公式見解ではありません。学会の非公開情報は使用していません。
+
+取得、登壇者抽出、所属の正規化、領域別CSV・未解決一覧、全体・領域別ランキングの生成を実装しています。大会前の取得結果は暫定版です。検索画面・日程別一覧との取得範囲の突合は未実装です。
 
 ## 環境構築と実行
 
-Python 3.9以上、uv、Bash、wgetが必要です。uv操作はユーザー承認のもと、サンドボックス外で実行します。
+Python 3.9以上、uv、Bash、wgetが必要です。
 
 ```sh
 uv sync --locked
@@ -15,6 +19,7 @@ bash scripts/download.sh
 .venv/bin/python scripts/inspect_program.py
 .venv/bin/python scripts/parse_program.py
 .venv/bin/python scripts/normalize_affiliations.py
+.venv/bin/python scripts/build_report.py
 .venv/bin/python -m unittest discover -s tests -v
 ```
 
@@ -41,6 +46,8 @@ bash scripts/download.sh
 | `output/audit.csv` | 取消、移動元、重複、番号補正、要確認の記録 |
 | `output/extraction_summary.md` | 日本語の実行結果と制約 |
 | `output/extraction_summary.json` | 件数、取得日時、対応表のハッシュ等 |
+| `output/report.md` | 全体・領域別の機関上位20位ランキング |
+| `output/ranking.json` | ランキングの機械可読データ |
 | `output/structure_audit.json` | ページ別の掲載枠数と構造検証候補 |
 
 CSVはUTF-8（BOMなし）です。`presenter_affiliation_raw`、`affiliation_alias`、`affiliation_official` は対応順をそろえたJSON配列で、未確定値は `null` です。同じ正式機関の所属は1件に畳み、畳む前の原所属配列を `presenter_affiliation_all_raw` に残します。全部局の原文は `presentations.jsonl` にも保持します。
