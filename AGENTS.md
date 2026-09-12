@@ -2,8 +2,8 @@
 
 ## Git・GitHub CLIの実行
 
-- すべての `git` および `gh` コマンドは、読み取り専用の操作を含め、サンドボックス内では実行しない。
-- `git` および `gh` コマンドはユーザーの承認のもと、サンドボックス外でユーザー権限により実行する。実行時は `sandbox_permissions: "require_escalated"` を指定し、`justification` に実行目的を明記して承認を求める。
+- `git` および `gh` の読み取り専用操作は、サンドボックス内で実行してよく、ユーザー承認も不要とする。
+- `git` および `gh` の書き込み・履歴変更操作は、サンドボックス外でユーザー権限により実行する。実行時は `sandbox_permissions: "require_escalated"` を指定し、`justification` に実行目的を明記してユーザーの承認を求める。
 - 使用するGitHubアカウントは `kaityo256`。
 
 ## 実装言語・Python環境
