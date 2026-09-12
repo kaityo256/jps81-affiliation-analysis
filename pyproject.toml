@@ -1,0 +1,6 @@
+[project]
+name = "jps81-affiliation-analysis"
+version = "0.1.0"
+description = "第81回日本物理学会年次大会の登壇者所属調査"
+requires-python = ">=3.9"
+dependencies = ["beautifulsoup4>=4.12,<5"]

@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+data/raw/
+output/structure_audit.json
+output/presentations.jsonl
+
+# 個人名・所属等を含み得るCSVは、最終結果を含めてすべてGit管理対象外にする。
+*.csv
