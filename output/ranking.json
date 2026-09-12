@@ -7,54 +7,54 @@
       "explicit": 159,
       "unresolved": 1
     },
-    "resolved_presentations": 3290,
+    "resolved_presentations": 3717,
     "unresolved_presenters": 1,
-    "unresolved_affiliations": 512,
+    "unresolved_affiliations": 85,
     "ranking": [
       {
         "rank": 1,
         "official_name": "東京大学",
-        "count": 569
+        "count": 578
       },
       {
         "rank": 2,
         "official_name": "大阪大学",
-        "count": 273
+        "count": 275
       },
       {
         "rank": 3,
         "official_name": "京都大学",
-        "count": 263
+        "count": 265
       },
       {
         "rank": 4,
         "official_name": "東北大学",
-        "count": 203
+        "count": 206
       },
       {
         "rank": 5,
         "official_name": "理化学研究所",
-        "count": 150
+        "count": 151
       },
       {
         "rank": 6,
         "official_name": "名古屋大学",
-        "count": 144
+        "count": 145
       },
       {
         "rank": 7,
         "official_name": "広島大学",
-        "count": 105
+        "count": 109
       },
       {
         "rank": 8,
-        "official_name": "九州大学",
-        "count": 104
+        "official_name": "東京科学大学",
+        "count": 105
       },
       {
         "rank": 9,
-        "official_name": "東京科学大学",
-        "count": 102
+        "official_name": "九州大学",
+        "count": 104
       },
       {
         "rank": 10,
@@ -63,88 +63,93 @@
       },
       {
         "rank": 11,
+        "official_name": "高エネルギー加速器研究機構",
+        "count": 74
+      },
+      {
+        "rank": 12,
         "official_name": "北海道大学",
         "count": 69
       },
       {
         "rank": 12,
         "official_name": "大阪公立大学",
-        "count": 66
-      },
-      {
-        "rank": 13,
-        "official_name": "慶應義塾大学",
-        "count": 65
+        "count": 69
       },
       {
         "rank": 14,
-        "official_name": "高エネルギー加速器研究機構",
-        "count": 64
+        "official_name": "慶應義塾大学",
+        "count": 66
       },
       {
         "rank": 15,
         "official_name": "千葉大学",
-        "count": 59
+        "count": 60
       },
       {
         "rank": 16,
         "official_name": "早稲田大学",
-        "count": 55
+        "count": 59
       },
       {
-        "rank": 16,
+        "rank": 17,
         "official_name": "筑波大学",
-        "count": 55
+        "count": 56
       },
       {
         "rank": 18,
-        "official_name": "茨城大学",
-        "count": 46
+        "official_name": "神戸大学",
+        "count": 48
       },
       {
         "rank": 19,
-        "official_name": "岡山大学",
-        "count": 44
+        "official_name": "茨城大学",
+        "count": 47
       },
       {
         "rank": 20,
-        "official_name": "神戸大学",
-        "count": 43
+        "official_name": "岡山大学",
+        "count": 45
       },
       {
         "rank": 21,
+        "official_name": "新潟大学",
+        "count": 38
+      },
+      {
+        "rank": 22,
         "official_name": "兵庫県立大学",
-        "count": 35
-      },
-      {
-        "rank": 21,
-        "official_name": "総合研究大学院大学",
-        "count": 35
+        "count": 37
       },
       {
         "rank": 23,
         "official_name": "東京都立大学",
-        "count": 34
+        "count": 35
       },
       {
         "rank": 23,
         "official_name": "横浜国立大学",
-        "count": 34
+        "count": 35
       },
       {
-        "rank": 25,
+        "rank": 23,
+        "official_name": "総合研究大学院大学",
+        "count": 35
+      },
+      {
+        "rank": 26,
         "official_name": "日本大学",
         "count": 33
       },
       {
-        "rank": 26,
+        "rank": 27,
         "official_name": "物質・材料研究機構",
         "count": 32
       },
       {
-        "rank": 27,
-        "official_name": "新潟大学",
-        "count": 29
+        "rank": 28,
+        "official_name": "埼玉大学",
+        "count": 28
       },
       {
         "rank": 28,
@@ -152,38 +157,33 @@
         "count": 28
       },
       {
-        "rank": 29,
-        "official_name": "電気通信大学",
-        "count": 26
+        "rank": 28,
+        "official_name": "核融合科学研究所",
+        "count": 28
       },
       {
-        "rank": 30,
+        "rank": 28,
+        "official_name": "電気通信大学",
+        "count": 28
+      },
+      {
+        "rank": 32,
         "official_name": "上智大学",
         "count": 25
       },
       {
-        "rank": 30,
-        "official_name": "核融合科学研究所",
-        "count": 25
-      },
-      {
-        "rank": 30,
+        "rank": 32,
         "official_name": "量子科学技術研究開発機構",
         "count": 25
       },
       {
-        "rank": 33,
-        "official_name": "お茶の水女子大学",
-        "count": 24
-      },
-      {
-        "rank": 33,
-        "official_name": "埼玉大学",
-        "count": 24
-      },
-      {
-        "rank": 33,
+        "rank": 32,
         "official_name": "金沢大学",
+        "count": 25
+      },
+      {
+        "rank": 35,
+        "official_name": "お茶の水女子大学",
         "count": 24
       },
       {
@@ -197,39 +197,49 @@
         "count": 22
       },
       {
-        "rank": 38,
+        "rank": 37,
         "official_name": "立教大学",
-        "count": 21
+        "count": 22
       },
       {
         "rank": 39,
+        "official_name": "名古屋工業大学",
+        "count": 20
+      },
+      {
+        "rank": 39,
+        "official_name": "奈良女子大学",
+        "count": 20
+      },
+      {
+        "rank": 41,
         "official_name": "分子科学研究所",
         "count": 19
       },
       {
-        "rank": 40,
-        "official_name": "名古屋工業大学",
-        "count": 18
-      },
-      {
-        "rank": 40,
-        "official_name": "奈良女子大学",
-        "count": 18
-      },
-      {
         "rank": 42,
         "official_name": "近畿大学",
-        "count": 16
-      },
-      {
-        "rank": 43,
-        "official_name": "NTT株式会社",
-        "count": 15
+        "count": 18
       },
       {
         "rank": 43,
         "official_name": "静岡大学",
+        "count": 16
+      },
+      {
+        "rank": 44,
+        "official_name": "NTT株式会社",
         "count": 15
+      },
+      {
+        "rank": 45,
+        "official_name": "富山大学",
+        "count": 13
+      },
+      {
+        "rank": 45,
+        "official_name": "島根大学",
+        "count": 13
       },
       {
         "rank": 45,
@@ -238,302 +248,1322 @@
       },
       {
         "rank": 45,
+        "official_name": "熊本大学",
+        "count": 13
+      },
+      {
+        "rank": 45,
+        "official_name": "芝浦工業大学",
+        "count": 13
+      },
+      {
+        "rank": 45,
         "official_name": "鳥取大学",
         "count": 13
       },
       {
-        "rank": 47,
+        "rank": 51,
         "official_name": "北里大学",
         "count": 12
       },
       {
-        "rank": 47,
-        "official_name": "島根大学",
+        "rank": 51,
+        "official_name": "室蘭工業大学",
         "count": 12
       },
       {
-        "rank": 47,
-        "official_name": "熊本大学",
-        "count": 12
-      },
-      {
-        "rank": 50,
-        "official_name": "富山大学",
-        "count": 11
-      },
-      {
-        "rank": 50,
+        "rank": 53,
         "official_name": "山形大学",
         "count": 11
       },
       {
-        "rank": 52,
+        "rank": 53,
+        "official_name": "東京農工大学",
+        "count": 11
+      },
+      {
+        "rank": 55,
         "official_name": "九州工業大学",
         "count": 10
       },
       {
-        "rank": 52,
+        "rank": 55,
         "official_name": "奈良先端科学技術大学院大学",
         "count": 10
       },
       {
-        "rank": 52,
-        "official_name": "室蘭工業大学",
-        "count": 10
-      },
-      {
-        "rank": 55,
+        "rank": 57,
         "official_name": "中央大学",
         "count": 9
       },
       {
-        "rank": 55,
+        "rank": 57,
+        "official_name": "岩手大学",
+        "count": 9
+      },
+      {
+        "rank": 57,
         "official_name": "愛媛大学",
         "count": 9
       },
       {
-        "rank": 55,
-        "official_name": "東京農工大学",
+        "rank": 57,
+        "official_name": "沖縄科学技術大学院大学",
         "count": 9
       },
       {
-        "rank": 55,
+        "rank": 57,
         "official_name": "福岡工業大学",
         "count": 9
       },
       {
-        "rank": 59,
+        "rank": 62,
         "official_name": "京都産業大学",
         "count": 8
       },
       {
-        "rank": 59,
+        "rank": 62,
         "official_name": "信州大学",
         "count": 8
       },
       {
-        "rank": 59,
+        "rank": 62,
         "official_name": "大阪電気通信大学",
         "count": 8
       },
       {
-        "rank": 59,
-        "official_name": "岩手大学",
+        "rank": 62,
+        "official_name": "岡山理科大学",
         "count": 8
       },
       {
-        "rank": 59,
+        "rank": 62,
         "official_name": "総合科学研究機構",
         "count": 8
       },
       {
-        "rank": 64,
+        "rank": 67,
         "official_name": "山口大学",
         "count": 7
       },
       {
-        "rank": 64,
-        "official_name": "岡山理科大学",
-        "count": 7
-      },
-      {
-        "rank": 64,
+        "rank": 67,
         "official_name": "弘前大学",
         "count": 7
       },
       {
-        "rank": 64,
+        "rank": 67,
+        "official_name": "東京都市大学",
+        "count": 7
+      },
+      {
+        "rank": 67,
         "official_name": "東海大学",
         "count": 7
       },
       {
-        "rank": 64,
-        "official_name": "沖縄科学技術大学院大学",
-        "count": 7
-      },
-      {
-        "rank": 64,
+        "rank": 67,
         "official_name": "福井大学",
         "count": 7
       },
       {
-        "rank": 64,
+        "rank": 67,
         "official_name": "豊田工業大学",
         "count": 7
       },
       {
-        "rank": 71,
+        "rank": 67,
+        "official_name": "高知大学",
+        "count": 7
+      },
+      {
+        "rank": 74,
+        "official_name": "佐賀大学",
+        "count": 6
+      },
+      {
+        "rank": 74,
         "official_name": "国立天文台",
         "count": 6
       },
       {
-        "rank": 71,
+        "rank": 74,
         "official_name": "学習院大学",
         "count": 6
       },
       {
-        "rank": 71,
+        "rank": 74,
+        "official_name": "富山県立大学",
+        "count": 6
+      },
+      {
+        "rank": 74,
         "official_name": "山梨大学",
         "count": 6
       },
       {
-        "rank": 71,
-        "official_name": "芝浦工業大学",
+        "rank": 74,
+        "official_name": "放送大学",
         "count": 6
       },
       {
-        "rank": 71,
+        "rank": 74,
+        "official_name": "法政大学",
+        "count": 6
+      },
+      {
+        "rank": 74,
+        "official_name": "甲南大学",
+        "count": 6
+      },
+      {
+        "rank": 74,
+        "official_name": "群馬大学",
+        "count": 6
+      },
+      {
+        "rank": 74,
         "official_name": "青山学院大学",
         "count": 6
       },
       {
-        "rank": 76,
+        "rank": 84,
+        "official_name": "Institute for Basic Science",
+        "count": 5
+      },
+      {
+        "rank": 84,
         "official_name": "京都工芸繊維大学",
         "count": 5
       },
       {
-        "rank": 76,
+        "rank": 84,
         "official_name": "國立中央大學",
         "count": 5
       },
       {
-        "rank": 76,
+        "rank": 84,
         "official_name": "大阪工業大学",
         "count": 5
       },
       {
-        "rank": 76,
-        "official_name": "放送大学",
+        "rank": 84,
+        "official_name": "富士通",
         "count": 5
       },
       {
-        "rank": 76,
-        "official_name": "甲南大学",
+        "rank": 84,
+        "official_name": "情報通信研究機構",
         "count": 5
       },
       {
-        "rank": 76,
+        "rank": 84,
+        "official_name": "東京電機大学",
+        "count": 5
+      },
+      {
+        "rank": 84,
+        "official_name": "琉球大学",
+        "count": 5
+      },
+      {
+        "rank": 84,
         "official_name": "神奈川大学",
         "count": 5
       },
       {
-        "rank": 82,
+        "rank": 84,
+        "official_name": "福島大学",
+        "count": 5
+      },
+      {
+        "rank": 84,
+        "official_name": "関西学院大学",
+        "count": 5
+      },
+      {
+        "rank": 84,
+        "official_name": "順天堂大学",
+        "count": 5
+      },
+      {
+        "rank": 84,
+        "official_name": "鹿児島大学",
+        "count": 5
+      },
+      {
+        "rank": 97,
+        "official_name": "中部大学",
+        "count": 4
+      },
+      {
+        "rank": 97,
+        "official_name": "同志社大学",
+        "count": 4
+      },
+      {
+        "rank": 97,
         "official_name": "宇宙航空研究開発機構",
         "count": 4
       },
       {
-        "rank": 82,
-        "official_name": "東京電機大学",
+        "rank": 97,
+        "official_name": "宮崎大学",
         "count": 4
       },
       {
-        "rank": 82,
-        "official_name": "法政大学",
+        "rank": 97,
+        "official_name": "岐阜大学",
         "count": 4
       },
       {
-        "rank": 82,
-        "official_name": "福島大学",
+        "rank": 97,
+        "official_name": "徳島大学",
         "count": 4
       },
       {
-        "rank": 82,
+        "rank": 97,
+        "official_name": "東京女子大学",
+        "count": 4
+      },
+      {
+        "rank": 97,
+        "official_name": "無所属",
+        "count": 4
+      },
+      {
+        "rank": 97,
         "official_name": "秋田大学",
         "count": 4
       },
       {
-        "rank": 87,
-        "official_name": "東京女子大学",
+        "rank": 97,
+        "official_name": "金沢工業大学",
+        "count": 4
+      },
+      {
+        "rank": 107,
+        "official_name": "Academia Sinica",
         "count": 3
       },
       {
-        "rank": 87,
+        "rank": 107,
+        "official_name": "三重大学",
+        "count": 3
+      },
+      {
+        "rank": 107,
+        "official_name": "九州産業大学",
+        "count": 3
+      },
+      {
+        "rank": 107,
+        "official_name": "公立はこだて未来大学",
+        "count": 3
+      },
+      {
+        "rank": 107,
+        "official_name": "宇都宮大学",
+        "count": 3
+      },
+      {
+        "rank": 107,
+        "official_name": "成蹊大学",
+        "count": 3
+      },
+      {
+        "rank": 107,
+        "official_name": "摂南大学",
+        "count": 3
+      },
+      {
+        "rank": 107,
+        "official_name": "明治大学",
+        "count": 3
+      },
+      {
+        "rank": 107,
+        "official_name": "横浜市立大学",
+        "count": 3
+      },
+      {
+        "rank": 107,
         "official_name": "沼津工業高等専門学校",
         "count": 3
       },
       {
-        "rank": 87,
-        "official_name": "群馬大学",
+        "rank": 107,
+        "official_name": "福岡大学",
         "count": 3
       },
       {
-        "rank": 87,
+        "rank": 107,
         "official_name": "群馬工業高等専門学校",
         "count": 3
       },
       {
-        "rank": 91,
+        "rank": 107,
+        "official_name": "豊田中央研究所",
+        "count": 3
+      },
+      {
+        "rank": 107,
+        "official_name": "香港科技大学",
+        "count": 3
+      },
+      {
+        "rank": 107,
+        "official_name": "高知工科大学",
+        "count": 3
+      },
+      {
+        "rank": 107,
+        "official_name": "高輝度光科学研究センター",
+        "count": 3
+      },
+      {
+        "rank": 123,
+        "official_name": "LQUOM",
+        "count": 2
+      },
+      {
+        "rank": 123,
+        "official_name": "Max Planck Institute for Chemical Physics of Solids",
+        "count": 2
+      },
+      {
+        "rank": 123,
+        "official_name": "Sejong University",
+        "count": 2
+      },
+      {
+        "rank": 123,
         "official_name": "Seoul National University",
         "count": 2
       },
       {
-        "rank": 91,
+        "rank": 123,
         "official_name": "University of California, Berkeley",
         "count": 2
       },
       {
-        "rank": 91,
-        "official_name": "三重大学",
+        "rank": 123,
+        "official_name": "一橋大学",
         "count": 2
       },
       {
-        "rank": 91,
-        "official_name": "中部大学",
+        "rank": 123,
+        "official_name": "京都大学基礎物理学研究所",
         "count": 2
       },
       {
-        "rank": 91,
-        "official_name": "佐賀大学",
+        "rank": 123,
+        "official_name": "京都女子大学",
         "count": 2
       },
       {
-        "rank": 91,
-        "official_name": "同志社大学",
+        "rank": 123,
+        "official_name": "京都府立大学",
         "count": 2
       },
       {
-        "rank": 91,
-        "official_name": "情報通信研究機構",
+        "rank": 123,
+        "official_name": "京都教育大学",
         "count": 2
       },
       {
-        "rank": 91,
-        "official_name": "明治大学",
+        "rank": 123,
+        "official_name": "公立諏訪東京理科大学",
         "count": 2
       },
       {
-        "rank": 91,
+        "rank": 123,
+        "official_name": "函館工業高等専門学校",
+        "count": 2
+      },
+      {
+        "rank": 123,
+        "official_name": "北海道教育大学",
+        "count": 2
+      },
+      {
+        "rank": 123,
+        "official_name": "北陸先端科学技術大学院大学",
+        "count": 2
+      },
+      {
+        "rank": 123,
+        "official_name": "千葉工業大学",
+        "count": 2
+      },
+      {
+        "rank": 123,
+        "official_name": "和歌山大学",
+        "count": 2
+      },
+      {
+        "rank": 123,
+        "official_name": "奈良教育大学",
+        "count": 2
+      },
+      {
+        "rank": 123,
+        "official_name": "崇城大学",
+        "count": 2
+      },
+      {
+        "rank": 123,
+        "official_name": "東京大学カブリ数物連携宇宙研究機構",
+        "count": 2
+      },
+      {
+        "rank": 123,
+        "official_name": "東京学芸大学",
+        "count": 2
+      },
+      {
+        "rank": 123,
+        "official_name": "東京第一合成",
+        "count": 2
+      },
+      {
+        "rank": 123,
+        "official_name": "東京薬科大学",
+        "count": 2
+      },
+      {
+        "rank": 123,
+        "official_name": "松江工業高等専門学校",
+        "count": 2
+      },
+      {
+        "rank": 123,
         "official_name": "海洋研究開発機構",
         "count": 2
       },
       {
-        "rank": 91,
-        "official_name": "福岡大学",
+        "rank": 123,
+        "official_name": "滋賀県立大学",
         "count": 2
       },
       {
-        "rank": 91,
-        "official_name": "関西学院大学",
+        "rank": 123,
+        "official_name": "熊本保健科学大学",
         "count": 2
       },
       {
-        "rank": 91,
+        "rank": 123,
+        "official_name": "鈴鹿工業高等専門学校",
+        "count": 2
+      },
+      {
+        "rank": 123,
+        "official_name": "関西大学",
+        "count": 2
+      },
+      {
+        "rank": 123,
+        "official_name": "防衛医科大学校",
+        "count": 2
+      },
+      {
+        "rank": 123,
+        "official_name": "防衛大学校",
+        "count": 2
+      },
+      {
+        "rank": 123,
         "official_name": "香川大学",
         "count": 2
       },
       {
-        "rank": 91,
-        "official_name": "高輝度光科学研究センター",
+        "rank": 123,
+        "official_name": "駒澤大学",
         "count": 2
       },
       {
-        "rank": 91,
-        "official_name": "鹿児島大学",
-        "count": 2
+        "rank": 155,
+        "official_name": "Abdus Salam International Centre for Theoretical Physics",
+        "count": 1
       },
       {
-        "rank": 105,
+        "rank": 155,
+        "official_name": "California Institute of Technology",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "Cornell University",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "European Laboratory for Non-Linear Spectroscopy",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "Forschungszentrum Jülich",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "Fudan University",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "ICFO",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "ILANCE",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "IQM Quantum Computers",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "Istituto Nazionale di Ricerca Metrologica",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "JX金属",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "Johannes Kepler University Linz",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "KEK QUP",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "Kanazawa Institute of Technology",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "Karlsruhe Institute of Technology",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "King's College London",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "Korea University",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "Kyungpook National University",
+        "count": 1
+      },
+      {
+        "rank": 155,
         "official_name": "Massachusetts Institute of Technology",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "Max Planck Institute for Microstructure Physics",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "Middle East Technical University",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "National Academy of Taiwan",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "National Center for Theoretical Sciences",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "National Cheng Kung University",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "National Chung Hsing University",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "National Sun Yat-sen University",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "National Synchrotron Radiation Research Center",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "National Taitung University",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "National Taiwan University",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "National Yang Ming Chiao Tung University",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "Paul Scherrer Institute",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "Pohang University of Science and Technology",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "Pukyong National University",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "Sapienza University of Rome",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "Sorbonne University",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "TU Wien",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "Tamkang University",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "Technische Universität Dresden",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "The University of Hong Kong",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "The University of Manchester",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "University of Kentucky",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "University of Naples Federico II",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "University of Rajshahi",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "University of Wisconsin",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "Wrocław University of Science and Technology",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "École normale supérieure, Paris",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "びわこ学院大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "エルライ",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "キュービットコア",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "クオンティニュアム",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "シグマアイ",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "シャレンノマド",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "セイコーエプソン",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "ナノアロイテクノロジー",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "ニューヨーク大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "ハーバード大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "ボルドー大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "マギル大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "マックス・プランク・プラズマ物理学研究所",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "一関工業高等専門学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "三井住友銀行",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "二松学舎大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "京都先端科学大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "京都府立医科大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "住友化学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "公立千歳科学技術大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "兵庫医科大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "兵庫教育大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "北海学園大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "北海道科学大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "医療創生大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "千葉県立千葉高等学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "名城大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "和歌山工業高等専門学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "国士舘大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "国立台湾大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "国立成功大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "国立清華大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "国際基督教大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "国際教養大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "城西大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "埼玉医科大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "埼玉工業大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "大分大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "大分工業高等専門学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "大同大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "大島商船高等専門学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "大阪公立大学工業高等専門学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "奥羽大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "学校法人開智学園",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "学際研究所",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "宇宙航空研究開発機構宇宙科学研究所",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "宇部工業高等専門学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "安徽理工大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "小山工業高等専門学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "岐阜工業高等専門学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "岡山商科大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "岡山県立大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "崇実大学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "帯広畜産大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "広島工業大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "広島市立大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "愛知工業大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "愛知工科大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "愛知教育大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "成城大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "新居浜工業高等専門学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "日本医科大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "日本工業大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "日本文理大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "日立製作所",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "明星大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "明治学院大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "明海大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "札幌学院大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "杏林大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "東京医科大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "東京学芸大学附属高等学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "東京工科大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "東京海洋大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "東京都立産業技術高等専門学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "東北学院大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "沖縄工業高等専門学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "河南大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "浙江大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "滋賀大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "熊本学園大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "独立",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "獨協医科大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "理化学研究所仁科加速器科学研究センター",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "理科実験サポートネット",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "石川工業高等専門学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "神戸常盤大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "福岡教育大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "福岡県立大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "福島工業高等専門学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "秋田工業高等専門学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "科学技術振興機構",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "第一工科大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "統計数理研究所",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "職業能力開発総合大学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "若狭湾エネルギー研究センター",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "茨城工業高等専門学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "近代物理学研究所",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "追手門学院大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "都城工業高等専門学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "金沢大学附属高等学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "金沢学院大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "長崎大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "開智所沢中等教育学校",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "関西医科大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "静岡県立大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "韓国基礎科学研究院",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "高千穂大学",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "高度情報科学技術研究機構",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "高等師範学校（パリ）",
+        "count": 1
+      },
+      {
+        "rank": 155,
+        "official_name": "龍谷大学",
         "count": 1
       }
     ]
@@ -546,9 +1576,9 @@
         "single_author": 11,
         "explicit": 7
       },
-      "resolved_presentations": 128,
+      "resolved_presentations": 147,
       "unresolved_presenters": 0,
-      "unresolved_affiliations": 24,
+      "unresolved_affiliations": 5,
       "ranking": [
         {
           "rank": 1,
@@ -557,16 +1587,16 @@
         },
         {
           "rank": 2,
+          "official_name": "京都大学",
+          "count": 9
+        },
+        {
+          "rank": 2,
           "official_name": "東京理科大学",
           "count": 9
         },
         {
-          "rank": 3,
-          "official_name": "京都大学",
-          "count": 8
-        },
-        {
-          "rank": 3,
+          "rank": 4,
           "official_name": "理化学研究所",
           "count": 8
         },
@@ -581,23 +1611,28 @@
           "count": 7
         },
         {
-          "rank": 7,
+          "rank": 5,
+          "official_name": "電気通信大学",
+          "count": 7
+        },
+        {
+          "rank": 8,
           "official_name": "上智大学",
           "count": 6
         },
         {
-          "rank": 7,
+          "rank": 8,
           "official_name": "東北大学",
-          "count": 6
-        },
-        {
-          "rank": 7,
-          "official_name": "電気通信大学",
           "count": 6
         },
         {
           "rank": 10,
           "official_name": "分子科学研究所",
+          "count": 5
+        },
+        {
+          "rank": 10,
+          "official_name": "名古屋大学",
           "count": 5
         },
         {
@@ -611,29 +1646,34 @@
           "count": 5
         },
         {
-          "rank": 13,
+          "rank": 14,
           "official_name": "NTT株式会社",
           "count": 4
         },
         {
-          "rank": 13,
-          "official_name": "名古屋大学",
-          "count": 4
-        },
-        {
-          "rank": 13,
+          "rank": 14,
           "official_name": "奈良女子大学",
           "count": 4
         },
         {
-          "rank": 13,
+          "rank": 14,
           "official_name": "慶應義塾大学",
           "count": 4
         },
         {
-          "rank": 13,
+          "rank": 14,
           "official_name": "総合研究大学院大学",
           "count": 4
+        },
+        {
+          "rank": 18,
+          "official_name": "富士通",
+          "count": 3
+        },
+        {
+          "rank": 18,
+          "official_name": "岡山大学",
+          "count": 3
         },
         {
           "rank": 18,
@@ -652,101 +1692,151 @@
         },
         {
           "rank": 18,
+          "official_name": "立教大学",
+          "count": 3
+        },
+        {
+          "rank": 18,
           "official_name": "高エネルギー加速器研究機構",
           "count": 3
         },
         {
-          "rank": 22,
+          "rank": 25,
+          "official_name": "LQUOM",
+          "count": 2
+        },
+        {
+          "rank": 25,
           "official_name": "中央大学",
           "count": 2
         },
         {
-          "rank": 22,
-          "official_name": "岡山大学",
-          "count": 2
-        },
-        {
-          "rank": 22,
+          "rank": 25,
           "official_name": "東京都立大学",
           "count": 2
         },
         {
-          "rank": 22,
-          "official_name": "立教大学",
-          "count": 2
-        },
-        {
-          "rank": 22,
+          "rank": 25,
           "official_name": "筑波大学",
           "count": 2
         },
         {
-          "rank": 22,
+          "rank": 25,
+          "official_name": "芝浦工業大学",
+          "count": 2
+        },
+        {
+          "rank": 25,
           "official_name": "茨城大学",
           "count": 2
         },
         {
-          "rank": 22,
+          "rank": 25,
           "official_name": "近畿大学",
           "count": 2
         },
         {
-          "rank": 29,
+          "rank": 32,
+          "official_name": "European Laboratory for Non-Linear Spectroscopy",
+          "count": 1
+        },
+        {
+          "rank": 32,
+          "official_name": "Istituto Nazionale di Ricerca Metrologica",
+          "count": 1
+        },
+        {
+          "rank": 32,
+          "official_name": "Kyungpook National University",
+          "count": 1
+        },
+        {
+          "rank": 32,
+          "official_name": "Pohang University of Science and Technology",
+          "count": 1
+        },
+        {
+          "rank": 32,
           "official_name": "Seoul National University",
           "count": 1
         },
         {
-          "rank": 29,
+          "rank": 32,
+          "official_name": "キュービットコア",
+          "count": 1
+        },
+        {
+          "rank": 32,
           "official_name": "九州大学",
           "count": 1
         },
         {
-          "rank": 29,
+          "rank": 32,
+          "official_name": "兵庫県立大学",
+          "count": 1
+        },
+        {
+          "rank": 32,
           "official_name": "北海道大学",
           "count": 1
         },
         {
-          "rank": 29,
+          "rank": 32,
           "official_name": "岡山理科大学",
           "count": 1
         },
         {
-          "rank": 29,
+          "rank": 32,
           "official_name": "広島大学",
           "count": 1
         },
         {
-          "rank": 29,
+          "rank": 32,
+          "official_name": "情報通信研究機構",
+          "count": 1
+        },
+        {
+          "rank": 32,
+          "official_name": "放送大学",
+          "count": 1
+        },
+        {
+          "rank": 32,
           "official_name": "日本原子力研究開発機構",
           "count": 1
         },
         {
-          "rank": 29,
+          "rank": 32,
           "official_name": "日本大学",
           "count": 1
         },
         {
-          "rank": 29,
+          "rank": 32,
           "official_name": "東京農工大学",
           "count": 1
         },
         {
-          "rank": 29,
+          "rank": 32,
           "official_name": "東海大学",
           "count": 1
         },
         {
-          "rank": 29,
+          "rank": 32,
           "official_name": "沖縄科学技術大学院大学",
           "count": 1
         },
         {
-          "rank": 29,
+          "rank": 32,
           "official_name": "物質・材料研究機構",
           "count": 1
         },
         {
-          "rank": 29,
+          "rank": 32,
+          "official_name": "神戸常盤大学",
+          "count": 1
+        },
+        {
+          "rank": 32,
           "official_name": "静岡大学",
           "count": 1
         }
@@ -759,9 +1849,9 @@
         "inferred_first_author": 103,
         "explicit": 2
       },
-      "resolved_presentations": 120,
+      "resolved_presentations": 133,
       "unresolved_presenters": 0,
-      "unresolved_affiliations": 14,
+      "unresolved_affiliations": 1,
       "ranking": [
         {
           "rank": 1,
@@ -770,12 +1860,12 @@
         },
         {
           "rank": 2,
-          "official_name": "京都大学",
-          "count": 19
+          "official_name": "核融合科学研究所",
+          "count": 22
         },
         {
-          "rank": 2,
-          "official_name": "核融合科学研究所",
+          "rank": 3,
+          "official_name": "京都大学",
           "count": 19
         },
         {
@@ -824,53 +1914,98 @@
           "count": 2
         },
         {
-          "rank": 13,
+          "rank": 12,
+          "official_name": "宇都宮大学",
+          "count": 2
+        },
+        {
+          "rank": 14,
           "official_name": "NTT株式会社",
           "count": 1
         },
         {
-          "rank": 13,
+          "rank": 14,
+          "official_name": "National Cheng Kung University",
+          "count": 1
+        },
+        {
+          "rank": 14,
+          "official_name": "マックス・プランク・プラズマ物理学研究所",
+          "count": 1
+        },
+        {
+          "rank": 14,
           "official_name": "中部大学",
           "count": 1
         },
         {
-          "rank": 13,
+          "rank": 14,
           "official_name": "北海道大学",
           "count": 1
         },
         {
-          "rank": 13,
+          "rank": 14,
           "official_name": "同志社大学",
           "count": 1
         },
         {
-          "rank": 13,
+          "rank": 14,
+          "official_name": "国立成功大学",
+          "count": 1
+        },
+        {
+          "rank": 14,
           "official_name": "國立中央大學",
           "count": 1
         },
         {
-          "rank": 13,
+          "rank": 14,
+          "official_name": "学際研究所",
+          "count": 1
+        },
+        {
+          "rank": 14,
           "official_name": "富山大学",
           "count": 1
         },
         {
-          "rank": 13,
+          "rank": 14,
+          "official_name": "崇城大学",
+          "count": 1
+        },
+        {
+          "rank": 14,
           "official_name": "慶應義塾大学",
           "count": 1
         },
         {
-          "rank": 13,
+          "rank": 14,
+          "official_name": "新潟大学",
+          "count": 1
+        },
+        {
+          "rank": 14,
           "official_name": "理化学研究所",
           "count": 1
         },
         {
-          "rank": 13,
+          "rank": 14,
           "official_name": "福岡工業大学",
           "count": 1
         },
         {
-          "rank": 13,
+          "rank": 14,
+          "official_name": "長崎大学",
+          "count": 1
+        },
+        {
+          "rank": 14,
           "official_name": "電気通信大学",
+          "count": 1
+        },
+        {
+          "rank": 14,
+          "official_name": "駒澤大学",
           "count": 1
         }
       ]
@@ -882,9 +2017,9 @@
         "explicit": 2,
         "single_author": 5
       },
-      "resolved_presentations": 198,
+      "resolved_presentations": 211,
       "unresolved_presenters": 0,
-      "unresolved_affiliations": 13,
+      "unresolved_affiliations": 0,
       "ranking": [
         {
           "rank": 1,
@@ -939,25 +2074,25 @@
         {
           "rank": 11,
           "official_name": "埼玉大学",
-          "count": 4
+          "count": 5
         },
         {
           "rank": 11,
           "official_name": "大阪公立大学",
-          "count": 4
+          "count": 5
         },
         {
-          "rank": 11,
+          "rank": 13,
           "official_name": "慶應義塾大学",
           "count": 4
         },
         {
-          "rank": 11,
+          "rank": 13,
           "official_name": "日本原子力研究開発機構",
           "count": 4
         },
         {
-          "rank": 11,
+          "rank": 13,
           "official_name": "福井大学",
           "count": 4
         },
@@ -989,6 +2124,11 @@
         {
           "rank": 20,
           "official_name": "九州工業大学",
+          "count": 2
+        },
+        {
+          "rank": 20,
+          "official_name": "同志社大学",
           "count": 2
         },
         {
@@ -1032,87 +2172,132 @@
           "count": 2
         },
         {
-          "rank": 30,
+          "rank": 31,
+          "official_name": "JX金属",
+          "count": 1
+        },
+        {
+          "rank": 31,
+          "official_name": "Technische Universität Dresden",
+          "count": 1
+        },
+        {
+          "rank": 31,
+          "official_name": "The University of Manchester",
+          "count": 1
+        },
+        {
+          "rank": 31,
           "official_name": "University of California, Berkeley",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 31,
           "official_name": "上智大学",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 31,
           "official_name": "佐賀大学",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 31,
           "official_name": "北里大学",
           "count": 1
         },
         {
-          "rank": 30,
-          "official_name": "同志社大学",
-          "count": 1
-        },
-        {
-          "rank": 30,
+          "rank": 31,
           "official_name": "名古屋工業大学",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 31,
           "official_name": "奈良女子大学",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 31,
           "official_name": "室蘭工業大学",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 31,
           "official_name": "富山大学",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 31,
           "official_name": "岡山大学",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 31,
           "official_name": "岡山理科大学",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 31,
+          "official_name": "崇城大学",
+          "count": 1
+        },
+        {
+          "rank": 31,
+          "official_name": "東京都市大学",
+          "count": 1
+        },
+        {
+          "rank": 31,
           "official_name": "東邦大学",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 31,
+          "official_name": "河南大学",
+          "count": 1
+        },
+        {
+          "rank": 31,
+          "official_name": "琉球大学",
+          "count": 1
+        },
+        {
+          "rank": 31,
           "official_name": "産業技術総合研究所",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 31,
           "official_name": "甲南大学",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 31,
+          "official_name": "福岡大学",
+          "count": 1
+        },
+        {
+          "rank": 31,
           "official_name": "立命館大学",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 31,
           "official_name": "総合科学研究機構",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 31,
+          "official_name": "群馬大学",
+          "count": 1
+        },
+        {
+          "rank": 31,
+          "official_name": "金沢大学",
+          "count": 1
+        },
+        {
+          "rank": 31,
           "official_name": "静岡大学",
           "count": 1
         }
@@ -1126,19 +2311,19 @@
         "explicit": 1,
         "unresolved": 1
       },
-      "resolved_presentations": 144,
+      "resolved_presentations": 155,
       "unresolved_presenters": 1,
-      "unresolved_affiliations": 15,
+      "unresolved_affiliations": 4,
       "ranking": [
         {
           "rank": 1,
           "official_name": "東京大学",
-          "count": 35
+          "count": 36
         },
         {
           "rank": 2,
           "official_name": "東北大学",
-          "count": 15
+          "count": 16
         },
         {
           "rank": 3,
@@ -1232,7 +2417,32 @@
         },
         {
           "rank": 21,
+          "official_name": "École normale supérieure, Paris",
+          "count": 1
+        },
+        {
+          "rank": 21,
+          "official_name": "ニューヨーク大学",
+          "count": 1
+        },
+        {
+          "rank": 21,
           "official_name": "上智大学",
+          "count": 1
+        },
+        {
+          "rank": 21,
+          "official_name": "京都先端科学大学",
+          "count": 1
+        },
+        {
+          "rank": 21,
+          "official_name": "兵庫医科大学",
+          "count": 1
+        },
+        {
+          "rank": 21,
+          "official_name": "北海道科学大学",
           "count": 1
         },
         {
@@ -1262,7 +2472,22 @@
         },
         {
           "rank": 21,
+          "official_name": "東京工科大学",
+          "count": 1
+        },
+        {
+          "rank": 21,
           "official_name": "東京農工大学",
+          "count": 1
+        },
+        {
+          "rank": 21,
+          "official_name": "横浜市立大学",
+          "count": 1
+        },
+        {
+          "rank": 21,
+          "official_name": "独立",
           "count": 1
         },
         {
@@ -1279,6 +2504,11 @@
           "rank": 21,
           "official_name": "筑波大学",
           "count": 1
+        },
+        {
+          "rank": 21,
+          "official_name": "芝浦工業大学",
+          "count": 1
         }
       ]
     },
@@ -1289,9 +2519,9 @@
         "explicit": 5,
         "single_author": 17
       },
-      "resolved_presentations": 165,
+      "resolved_presentations": 182,
       "unresolved_presenters": 0,
-      "unresolved_affiliations": 18,
+      "unresolved_affiliations": 1,
       "ranking": [
         {
           "rank": 1,
@@ -1306,7 +2536,7 @@
         {
           "rank": 3,
           "official_name": "東北大学",
-          "count": 15
+          "count": 14
         },
         {
           "rank": 4,
@@ -1350,156 +2580,206 @@
         },
         {
           "rank": 10,
+          "official_name": "東京科学大学",
+          "count": 5
+        },
+        {
+          "rank": 10,
           "official_name": "量子科学技術研究開発機構",
           "count": 5
         },
         {
-          "rank": 13,
+          "rank": 14,
           "official_name": "大阪公立大学",
           "count": 4
         },
         {
-          "rank": 13,
-          "official_name": "東京科学大学",
+          "rank": 14,
+          "official_name": "熊本大学",
           "count": 4
         },
         {
-          "rank": 15,
+          "rank": 16,
           "official_name": "NTT株式会社",
           "count": 3
         },
         {
-          "rank": 15,
+          "rank": 16,
           "official_name": "分子科学研究所",
           "count": 3
         },
         {
-          "rank": 15,
+          "rank": 16,
+          "official_name": "摂南大学",
+          "count": 3
+        },
+        {
+          "rank": 16,
           "official_name": "早稲田大学",
           "count": 3
         },
         {
-          "rank": 15,
-          "official_name": "熊本大学",
-          "count": 3
-        },
-        {
-          "rank": 15,
+          "rank": 16,
           "official_name": "物質・材料研究機構",
           "count": 3
         },
         {
-          "rank": 20,
+          "rank": 16,
+          "official_name": "高エネルギー加速器研究機構",
+          "count": 3
+        },
+        {
+          "rank": 22,
           "official_name": "兵庫県立大学",
           "count": 2
         },
         {
-          "rank": 20,
+          "rank": 22,
           "official_name": "北海道大学",
           "count": 2
         },
         {
-          "rank": 20,
+          "rank": 22,
           "official_name": "山梨大学",
           "count": 2
         },
         {
-          "rank": 20,
+          "rank": 22,
           "official_name": "島根大学",
           "count": 2
         },
         {
-          "rank": 20,
+          "rank": 22,
+          "official_name": "関西学院大学",
+          "count": 2
+        },
+        {
+          "rank": 22,
           "official_name": "静岡大学",
           "count": 2
         },
         {
-          "rank": 20,
-          "official_name": "高エネルギー加速器研究機構",
+          "rank": 22,
+          "official_name": "高知大学",
           "count": 2
         },
         {
-          "rank": 26,
+          "rank": 22,
+          "official_name": "高輝度光科学研究センター",
+          "count": 2
+        },
+        {
+          "rank": 30,
+          "official_name": "Academia Sinica",
+          "count": 1
+        },
+        {
+          "rank": 30,
+          "official_name": "The University of Hong Kong",
+          "count": 1
+        },
+        {
+          "rank": 30,
           "official_name": "九州大学",
           "count": 1
         },
         {
-          "rank": 26,
+          "rank": 30,
+          "official_name": "千葉工業大学",
+          "count": 1
+        },
+        {
+          "rank": 30,
           "official_name": "名古屋工業大学",
           "count": 1
         },
         {
-          "rank": 26,
+          "rank": 30,
+          "official_name": "大分工業高等専門学校",
+          "count": 1
+        },
+        {
+          "rank": 30,
+          "official_name": "宇都宮大学",
+          "count": 1
+        },
+        {
+          "rank": 30,
           "official_name": "弘前大学",
           "count": 1
         },
         {
-          "rank": 26,
+          "rank": 30,
+          "official_name": "徳島大学",
+          "count": 1
+        },
+        {
+          "rank": 30,
           "official_name": "愛媛大学",
           "count": 1
         },
         {
-          "rank": 26,
+          "rank": 30,
           "official_name": "慶應義塾大学",
           "count": 1
         },
         {
-          "rank": 26,
+          "rank": 30,
           "official_name": "放送大学",
           "count": 1
         },
         {
-          "rank": 26,
+          "rank": 30,
           "official_name": "東京農工大学",
           "count": 1
         },
         {
-          "rank": 26,
+          "rank": 30,
           "official_name": "沖縄科学技術大学院大学",
           "count": 1
         },
         {
-          "rank": 26,
+          "rank": 30,
           "official_name": "甲南大学",
           "count": 1
         },
         {
-          "rank": 26,
+          "rank": 30,
           "official_name": "神戸大学",
           "count": 1
         },
         {
-          "rank": 26,
+          "rank": 30,
           "official_name": "福井大学",
           "count": 1
         },
         {
-          "rank": 26,
+          "rank": 30,
           "official_name": "立命館大学",
           "count": 1
         },
         {
-          "rank": 26,
+          "rank": 30,
           "official_name": "総合研究大学院大学",
           "count": 1
         },
         {
-          "rank": 26,
-          "official_name": "関西学院大学",
+          "rank": 30,
+          "official_name": "追手門学院大学",
           "count": 1
         },
         {
-          "rank": 26,
+          "rank": 30,
           "official_name": "電気通信大学",
           "count": 1
         },
         {
-          "rank": 26,
-          "official_name": "高輝度光科学研究センター",
+          "rank": 30,
+          "official_name": "韓国基礎科学研究院",
           "count": 1
         },
         {
-          "rank": 26,
+          "rank": 30,
           "official_name": "鹿児島大学",
           "count": 1
         }
@@ -1512,9 +2792,9 @@
         "explicit": 2,
         "single_author": 21
       },
-      "resolved_presentations": 140,
+      "resolved_presentations": 148,
       "unresolved_presenters": 0,
-      "unresolved_affiliations": 10,
+      "unresolved_affiliations": 2,
       "ranking": [
         {
           "rank": 1,
@@ -1667,48 +2947,83 @@
           "count": 2
         },
         {
-          "rank": 31,
+          "rank": 21,
+          "official_name": "高知大学",
+          "count": 2
+        },
+        {
+          "rank": 32,
           "official_name": "NTT株式会社",
           "count": 1
         },
         {
-          "rank": 31,
+          "rank": 32,
+          "official_name": "九州産業大学",
+          "count": 1
+        },
+        {
+          "rank": 32,
           "official_name": "佐賀大学",
           "count": 1
         },
         {
-          "rank": 31,
+          "rank": 32,
           "official_name": "信州大学",
           "count": 1
         },
         {
-          "rank": 31,
+          "rank": 32,
           "official_name": "兵庫県立大学",
           "count": 1
         },
         {
-          "rank": 31,
+          "rank": 32,
           "official_name": "奈良先端科学技術大学院大学",
           "count": 1
         },
         {
-          "rank": 31,
+          "rank": 32,
+          "official_name": "愛知工業大学",
+          "count": 1
+        },
+        {
+          "rank": 32,
           "official_name": "日本大学",
           "count": 1
         },
         {
-          "rank": 31,
+          "rank": 32,
           "official_name": "東京都立大学",
           "count": 1
         },
         {
-          "rank": 31,
+          "rank": 32,
           "official_name": "東邦大学",
           "count": 1
         },
         {
-          "rank": 31,
+          "rank": 32,
+          "official_name": "芝浦工業大学",
+          "count": 1
+        },
+        {
+          "rank": 32,
           "official_name": "近畿大学",
+          "count": 1
+        },
+        {
+          "rank": 32,
+          "official_name": "関西大学",
+          "count": 1
+        },
+        {
+          "rank": 32,
+          "official_name": "高知工科大学",
+          "count": 1
+        },
+        {
+          "rank": 32,
+          "official_name": "鹿児島大学",
           "count": 1
         }
       ]
@@ -1720,9 +3035,9 @@
         "single_author": 30,
         "explicit": 3
       },
-      "resolved_presentations": 132,
+      "resolved_presentations": 140,
       "unresolved_presenters": 0,
-      "unresolved_affiliations": 8,
+      "unresolved_affiliations": 0,
       "ranking": [
         {
           "rank": 1,
@@ -1796,6 +3111,11 @@
         },
         {
           "rank": 14,
+          "official_name": "岩手大学",
+          "count": 3
+        },
+        {
+          "rank": 14,
           "official_name": "放送大学",
           "count": 3
         },
@@ -1815,78 +3135,93 @@
           "count": 3
         },
         {
-          "rank": 19,
+          "rank": 20,
           "official_name": "山梨大学",
           "count": 2
         },
         {
-          "rank": 19,
+          "rank": 20,
           "official_name": "岡山大学",
           "count": 2
         },
         {
-          "rank": 19,
-          "official_name": "岩手大学",
-          "count": 2
-        },
-        {
-          "rank": 19,
+          "rank": 20,
           "official_name": "早稲田大学",
           "count": 2
         },
         {
-          "rank": 19,
+          "rank": 20,
           "official_name": "東京科学大学",
           "count": 2
         },
         {
-          "rank": 24,
+          "rank": 20,
+          "official_name": "東京都市大学",
+          "count": 2
+        },
+        {
+          "rank": 20,
+          "official_name": "芝浦工業大学",
+          "count": 2
+        },
+        {
+          "rank": 20,
+          "official_name": "関西学院大学",
+          "count": 2
+        },
+        {
+          "rank": 27,
+          "official_name": "公立千歳科学技術大学",
+          "count": 1
+        },
+        {
+          "rank": 27,
           "official_name": "千葉大学",
           "count": 1
         },
         {
-          "rank": 24,
+          "rank": 27,
           "official_name": "大阪工業大学",
           "count": 1
         },
         {
-          "rank": 24,
+          "rank": 27,
           "official_name": "奈良女子大学",
           "count": 1
         },
         {
-          "rank": 24,
+          "rank": 27,
           "official_name": "室蘭工業大学",
           "count": 1
         },
         {
-          "rank": 24,
+          "rank": 27,
           "official_name": "岡山理科大学",
           "count": 1
         },
         {
-          "rank": 24,
+          "rank": 27,
           "official_name": "愛媛大学",
           "count": 1
         },
         {
-          "rank": 24,
+          "rank": 27,
+          "official_name": "法政大学",
+          "count": 1
+        },
+        {
+          "rank": 27,
           "official_name": "総合研究大学院大学",
           "count": 1
         },
         {
-          "rank": 24,
-          "official_name": "芝浦工業大学",
+          "rank": 27,
+          "official_name": "職業能力開発総合大学校",
           "count": 1
         },
         {
-          "rank": 24,
+          "rank": 27,
           "official_name": "茨城大学",
-          "count": 1
-        },
-        {
-          "rank": 24,
-          "official_name": "関西学院大学",
           "count": 1
         }
       ]
@@ -1898,14 +3233,14 @@
         "single_author": 25,
         "explicit": 6
       },
-      "resolved_presentations": 412,
+      "resolved_presentations": 437,
       "unresolved_presenters": 0,
-      "unresolved_affiliations": 31,
+      "unresolved_affiliations": 6,
       "ranking": [
         {
           "rank": 1,
           "official_name": "東京大学",
-          "count": 66
+          "count": 67
         },
         {
           "rank": 2,
@@ -1920,7 +3255,7 @@
         {
           "rank": 4,
           "official_name": "東北大学",
-          "count": 25
+          "count": 26
         },
         {
           "rank": 5,
@@ -1933,9 +3268,9 @@
           "count": 17
         },
         {
-          "rank": 7,
+          "rank": 6,
           "official_name": "神戸大学",
-          "count": 15
+          "count": 17
         },
         {
           "rank": 8,
@@ -1954,21 +3289,21 @@
         },
         {
           "rank": 11,
+          "official_name": "早稲田大学",
+          "count": 13
+        },
+        {
+          "rank": 12,
           "official_name": "北海道大学",
           "count": 12
         },
         {
-          "rank": 11,
-          "official_name": "早稲田大学",
-          "count": 12
-        },
-        {
-          "rank": 11,
+          "rank": 12,
           "official_name": "東京理科大学",
           "count": 12
         },
         {
-          "rank": 11,
+          "rank": 12,
           "official_name": "茨城大学",
           "count": 12
         },
@@ -2028,153 +3363,228 @@
           "count": 5
         },
         {
-          "rank": 26,
+          "rank": 24,
+          "official_name": "電気通信大学",
+          "count": 5
+        },
+        {
+          "rank": 27,
           "official_name": "上智大学",
           "count": 4
         },
         {
-          "rank": 26,
+          "rank": 27,
           "official_name": "室蘭工業大学",
           "count": 4
         },
         {
-          "rank": 26,
+          "rank": 27,
+          "official_name": "富山県立大学",
+          "count": 4
+        },
+        {
+          "rank": 27,
           "official_name": "岩手大学",
           "count": 4
         },
         {
-          "rank": 26,
+          "rank": 27,
           "official_name": "立命館大学",
           "count": 4
         },
         {
-          "rank": 26,
-          "official_name": "電気通信大学",
-          "count": 4
-        },
-        {
-          "rank": 31,
+          "rank": 32,
           "official_name": "九州工業大学",
           "count": 3
         },
         {
-          "rank": 31,
+          "rank": 32,
           "official_name": "産業技術総合研究所",
           "count": 3
         },
         {
-          "rank": 31,
+          "rank": 32,
           "official_name": "総合科学研究機構",
           "count": 3
         },
         {
-          "rank": 34,
+          "rank": 35,
+          "official_name": "Max Planck Institute for Chemical Physics of Solids",
+          "count": 2
+        },
+        {
+          "rank": 35,
           "official_name": "千葉大学",
           "count": 2
         },
         {
-          "rank": 34,
+          "rank": 35,
           "official_name": "奈良女子大学",
           "count": 2
         },
         {
-          "rank": 34,
+          "rank": 35,
           "official_name": "弘前大学",
           "count": 2
         },
         {
-          "rank": 34,
+          "rank": 35,
           "official_name": "日本大学",
           "count": 2
         },
         {
-          "rank": 34,
+          "rank": 35,
+          "official_name": "東京農工大学",
+          "count": 2
+        },
+        {
+          "rank": 35,
+          "official_name": "東京都市大学",
+          "count": 2
+        },
+        {
+          "rank": 35,
           "official_name": "沖縄科学技術大学院大学",
           "count": 2
         },
         {
-          "rank": 34,
+          "rank": 35,
           "official_name": "筑波大学",
           "count": 2
         },
         {
-          "rank": 34,
+          "rank": 35,
           "official_name": "芝浦工業大学",
           "count": 2
         },
         {
-          "rank": 34,
+          "rank": 35,
           "official_name": "量子科学技術研究開発機構",
           "count": 2
         },
         {
-          "rank": 42,
+          "rank": 46,
+          "official_name": "California Institute of Technology",
+          "count": 1
+        },
+        {
+          "rank": 46,
+          "official_name": "National Synchrotron Radiation Research Center",
+          "count": 1
+        },
+        {
+          "rank": 46,
+          "official_name": "Sapienza University of Rome",
+          "count": 1
+        },
+        {
+          "rank": 46,
+          "official_name": "TU Wien",
+          "count": 1
+        },
+        {
+          "rank": 46,
+          "official_name": "Wrocław University of Science and Technology",
+          "count": 1
+        },
+        {
+          "rank": 46,
           "official_name": "京都産業大学",
           "count": 1
         },
         {
-          "rank": 42,
+          "rank": 46,
           "official_name": "名古屋工業大学",
           "count": 1
         },
         {
-          "rank": 42,
+          "rank": 46,
+          "official_name": "国立清華大学",
+          "count": 1
+        },
+        {
+          "rank": 46,
+          "official_name": "徳島大学",
+          "count": 1
+        },
+        {
+          "rank": 46,
           "official_name": "愛媛大学",
           "count": 1
         },
         {
-          "rank": 42,
-          "official_name": "東京農工大学",
-          "count": 1
-        },
-        {
-          "rank": 42,
+          "rank": 46,
           "official_name": "東京電機大学",
           "count": 1
         },
         {
-          "rank": 42,
+          "rank": 46,
           "official_name": "東邦大学",
           "count": 1
         },
         {
-          "rank": 42,
+          "rank": 46,
           "official_name": "横浜国立大学",
           "count": 1
         },
         {
-          "rank": 42,
+          "rank": 46,
           "official_name": "熊本大学",
           "count": 1
         },
         {
-          "rank": 42,
+          "rank": 46,
+          "official_name": "琉球大学",
+          "count": 1
+        },
+        {
+          "rank": 46,
           "official_name": "甲南大学",
           "count": 1
         },
         {
-          "rank": 42,
+          "rank": 46,
           "official_name": "福岡工業大学",
           "count": 1
         },
         {
-          "rank": 42,
+          "rank": 46,
+          "official_name": "科学技術振興機構",
+          "count": 1
+        },
+        {
+          "rank": 46,
           "official_name": "近畿大学",
           "count": 1
         },
         {
-          "rank": 42,
+          "rank": 46,
           "official_name": "金沢大学",
           "count": 1
         },
         {
-          "rank": 42,
+          "rank": 46,
+          "official_name": "防衛大学校",
+          "count": 1
+        },
+        {
+          "rank": 46,
           "official_name": "青山学院大学",
           "count": 1
         },
         {
-          "rank": 42,
+          "rank": 46,
+          "official_name": "静岡大学",
+          "count": 1
+        },
+        {
+          "rank": 46,
           "official_name": "高輝度光科学研究センター",
+          "count": 1
+        },
+        {
+          "rank": 46,
+          "official_name": "鹿児島大学",
           "count": 1
         }
       ]
@@ -2186,9 +3596,9 @@
         "inferred_first_author": 87,
         "explicit": 8
       },
-      "resolved_presentations": 85,
+      "resolved_presentations": 108,
       "unresolved_presenters": 0,
-      "unresolved_affiliations": 28,
+      "unresolved_affiliations": 5,
       "ranking": [
         {
           "rank": 1,
@@ -2197,13 +3607,13 @@
         },
         {
           "rank": 2,
-          "official_name": "東京科学大学",
+          "official_name": "東京大学",
           "count": 8
         },
         {
-          "rank": 3,
-          "official_name": "東京大学",
-          "count": 7
+          "rank": 2,
+          "official_name": "東京科学大学",
+          "count": 8
         },
         {
           "rank": 4,
@@ -2232,28 +3642,33 @@
         },
         {
           "rank": 6,
+          "official_name": "大阪大学",
+          "count": 4
+        },
+        {
+          "rank": 6,
           "official_name": "福岡工業大学",
           "count": 4
         },
         {
-          "rank": 10,
+          "rank": 11,
           "official_name": "名古屋大学",
           "count": 3
         },
         {
-          "rank": 10,
-          "official_name": "大阪大学",
-          "count": 3
-        },
-        {
-          "rank": 10,
+          "rank": 11,
           "official_name": "東北大学",
           "count": 3
         },
         {
-          "rank": 10,
+          "rank": 11,
           "official_name": "物質・材料研究機構",
           "count": 3
+        },
+        {
+          "rank": 14,
+          "official_name": "佐賀大学",
+          "count": 2
         },
         {
           "rank": 14,
@@ -2272,6 +3687,16 @@
         },
         {
           "rank": 14,
+          "official_name": "東京電機大学",
+          "count": 2
+        },
+        {
+          "rank": 14,
+          "official_name": "滋賀県立大学",
+          "count": 2
+        },
+        {
+          "rank": 14,
           "official_name": "熊本大学",
           "count": 2
         },
@@ -2286,87 +3711,182 @@
           "count": 2
         },
         {
-          "rank": 20,
+          "rank": 23,
+          "official_name": "Forschungszentrum Jülich",
+          "count": 1
+        },
+        {
+          "rank": 23,
+          "official_name": "Institute for Basic Science",
+          "count": 1
+        },
+        {
+          "rank": 23,
+          "official_name": "Johannes Kepler University Linz",
+          "count": 1
+        },
+        {
+          "rank": 23,
+          "official_name": "Kanazawa Institute of Technology",
+          "count": 1
+        },
+        {
+          "rank": 23,
+          "official_name": "Max Planck Institute for Microstructure Physics",
+          "count": 1
+        },
+        {
+          "rank": 23,
+          "official_name": "National Chung Hsing University",
+          "count": 1
+        },
+        {
+          "rank": 23,
+          "official_name": "National Sun Yat-sen University",
+          "count": 1
+        },
+        {
+          "rank": 23,
+          "official_name": "National Taitung University",
+          "count": 1
+        },
+        {
+          "rank": 23,
+          "official_name": "National Taiwan University",
+          "count": 1
+        },
+        {
+          "rank": 23,
+          "official_name": "National Yang Ming Chiao Tung University",
+          "count": 1
+        },
+        {
+          "rank": 23,
+          "official_name": "Sorbonne University",
+          "count": 1
+        },
+        {
+          "rank": 23,
+          "official_name": "Tamkang University",
+          "count": 1
+        },
+        {
+          "rank": 23,
+          "official_name": "ナノアロイテクノロジー",
+          "count": 1
+        },
+        {
+          "rank": 23,
           "official_name": "九州大学",
           "count": 1
         },
         {
-          "rank": 20,
+          "rank": 23,
           "official_name": "九州工業大学",
           "count": 1
         },
         {
-          "rank": 20,
+          "rank": 23,
           "official_name": "京都産業大学",
           "count": 1
         },
         {
-          "rank": 20,
+          "rank": 23,
           "official_name": "信州大学",
           "count": 1
         },
         {
-          "rank": 20,
+          "rank": 23,
           "official_name": "北海道大学",
           "count": 1
         },
         {
-          "rank": 20,
+          "rank": 23,
+          "official_name": "国際基督教大学",
+          "count": 1
+        },
+        {
+          "rank": 23,
           "official_name": "大阪工業大学",
           "count": 1
         },
         {
-          "rank": 20,
+          "rank": 23,
           "official_name": "大阪電気通信大学",
           "count": 1
         },
         {
-          "rank": 20,
+          "rank": 23,
           "official_name": "山梨大学",
           "count": 1
         },
         {
-          "rank": 20,
+          "rank": 23,
+          "official_name": "岡山県立大学",
+          "count": 1
+        },
+        {
+          "rank": 23,
+          "official_name": "徳島大学",
+          "count": 1
+        },
+        {
+          "rank": 23,
           "official_name": "慶應義塾大学",
           "count": 1
         },
         {
-          "rank": 20,
-          "official_name": "東京電機大学",
+          "rank": 23,
+          "official_name": "東京女子大学",
           "count": 1
         },
         {
-          "rank": 20,
+          "rank": 23,
+          "official_name": "東京農工大学",
+          "count": 1
+        },
+        {
+          "rank": 23,
+          "official_name": "東北学院大学",
+          "count": 1
+        },
+        {
+          "rank": 23,
           "official_name": "横浜国立大学",
           "count": 1
         },
         {
-          "rank": 20,
+          "rank": 23,
           "official_name": "沖縄科学技術大学院大学",
           "count": 1
         },
         {
-          "rank": 20,
+          "rank": 23,
           "official_name": "理化学研究所",
           "count": 1
         },
         {
-          "rank": 20,
+          "rank": 23,
           "official_name": "筑波大学",
           "count": 1
         },
         {
-          "rank": 20,
+          "rank": 23,
           "official_name": "群馬工業高等専門学校",
           "count": 1
         },
         {
-          "rank": 20,
+          "rank": 23,
           "official_name": "芝浦工業大学",
           "count": 1
         },
         {
-          "rank": 20,
+          "rank": 23,
+          "official_name": "豊田中央研究所",
+          "count": 1
+        },
+        {
+          "rank": 23,
           "official_name": "電気通信大学",
           "count": 1
         }
@@ -2379,9 +3899,9 @@
         "single_author": 14,
         "explicit": 4
       },
-      "resolved_presentations": 88,
+      "resolved_presentations": 100,
       "unresolved_presenters": 0,
-      "unresolved_affiliations": 14,
+      "unresolved_affiliations": 2,
       "ranking": [
         {
           "rank": 1,
@@ -2396,15 +3916,15 @@
         {
           "rank": 3,
           "official_name": "名古屋工業大学",
-          "count": 7
+          "count": 9
         },
         {
-          "rank": 3,
+          "rank": 4,
           "official_name": "東北大学",
           "count": 7
         },
         {
-          "rank": 3,
+          "rank": 4,
           "official_name": "立命館大学",
           "count": 7
         },
@@ -2414,23 +3934,23 @@
           "count": 6
         },
         {
-          "rank": 7,
+          "rank": 6,
+          "official_name": "高エネルギー加速器研究機構",
+          "count": 6
+        },
+        {
+          "rank": 8,
           "official_name": "京都大学",
           "count": 4
         },
         {
-          "rank": 7,
+          "rank": 8,
           "official_name": "名古屋大学",
           "count": 4
         },
         {
-          "rank": 7,
+          "rank": 8,
           "official_name": "奈良先端科学技術大学院大学",
-          "count": 4
-        },
-        {
-          "rank": 7,
-          "official_name": "高エネルギー加速器研究機構",
           "count": 4
         },
         {
@@ -2450,6 +3970,16 @@
         },
         {
           "rank": 13,
+          "official_name": "和歌山大学",
+          "count": 2
+        },
+        {
+          "rank": 13,
+          "official_name": "室蘭工業大学",
+          "count": 2
+        },
+        {
+          "rank": 13,
           "official_name": "岡山大学",
           "count": 2
         },
@@ -2464,67 +3994,87 @@
           "count": 2
         },
         {
-          "rank": 17,
+          "rank": 19,
           "official_name": "九州大学",
           "count": 1
         },
         {
-          "rank": 17,
+          "rank": 19,
           "official_name": "大阪公立大学",
           "count": 1
         },
         {
-          "rank": 17,
+          "rank": 19,
           "official_name": "学習院大学",
           "count": 1
         },
         {
-          "rank": 17,
-          "official_name": "室蘭工業大学",
-          "count": 1
-        },
-        {
-          "rank": 17,
+          "rank": 19,
           "official_name": "富山大学",
           "count": 1
         },
         {
-          "rank": 17,
+          "rank": 19,
           "official_name": "広島大学",
           "count": 1
         },
         {
-          "rank": 17,
+          "rank": 19,
           "official_name": "愛媛大学",
           "count": 1
         },
         {
-          "rank": 17,
+          "rank": 19,
           "official_name": "日本原子力研究開発機構",
           "count": 1
         },
         {
-          "rank": 17,
+          "rank": 19,
+          "official_name": "無所属",
+          "count": 1
+        },
+        {
+          "rank": 19,
           "official_name": "理化学研究所",
           "count": 1
         },
         {
-          "rank": 17,
+          "rank": 19,
           "official_name": "総合研究大学院大学",
           "count": 1
         },
         {
-          "rank": 17,
+          "rank": 19,
           "official_name": "総合科学研究機構",
           "count": 1
         },
         {
-          "rank": 17,
+          "rank": 19,
           "official_name": "量子科学技術研究開発機構",
           "count": 1
         },
         {
-          "rank": 17,
+          "rank": 19,
+          "official_name": "鈴鹿工業高等専門学校",
+          "count": 1
+        },
+        {
+          "rank": 19,
+          "official_name": "関西医科大学",
+          "count": 1
+        },
+        {
+          "rank": 19,
+          "official_name": "関西学院大学",
+          "count": 1
+        },
+        {
+          "rank": 19,
+          "official_name": "高度情報科学技術研究機構",
+          "count": 1
+        },
+        {
+          "rank": 19,
           "official_name": "鹿児島大学",
           "count": 1
         }
@@ -2537,14 +4087,14 @@
         "single_author": 101,
         "explicit": 13
       },
-      "resolved_presentations": 396,
+      "resolved_presentations": 457,
       "unresolved_presenters": 0,
-      "unresolved_affiliations": 72,
+      "unresolved_affiliations": 11,
       "ranking": [
         {
           "rank": 1,
           "official_name": "東京大学",
-          "count": 72
+          "count": 74
         },
         {
           "rank": 2,
@@ -2564,12 +4114,12 @@
         {
           "rank": 5,
           "official_name": "大阪公立大学",
-          "count": 21
+          "count": 22
         },
         {
           "rank": 6,
           "official_name": "東北大学",
-          "count": 19
+          "count": 20
         },
         {
           "rank": 7,
@@ -2577,19 +4127,19 @@
           "count": 18
         },
         {
-          "rank": 8,
+          "rank": 7,
           "official_name": "東京科学大学",
-          "count": 16
+          "count": 18
         },
         {
-          "rank": 8,
+          "rank": 9,
           "official_name": "茨城大学",
           "count": 16
         },
         {
           "rank": 10,
           "official_name": "理化学研究所",
-          "count": 13
+          "count": 14
         },
         {
           "rank": 11,
@@ -2599,7 +4149,7 @@
         {
           "rank": 12,
           "official_name": "兵庫県立大学",
-          "count": 8
+          "count": 9
         },
         {
           "rank": 13,
@@ -2643,6 +4193,11 @@
         },
         {
           "rank": 20,
+          "official_name": "新潟大学",
+          "count": 4
+        },
+        {
+          "rank": 20,
           "official_name": "日本大学",
           "count": 4
         },
@@ -2652,213 +4207,413 @@
           "count": 4
         },
         {
-          "rank": 23,
+          "rank": 24,
+          "official_name": "三重大学",
+          "count": 3
+        },
+        {
+          "rank": 24,
           "official_name": "北海道大学",
           "count": 3
         },
         {
-          "rank": 23,
+          "rank": 24,
           "official_name": "名古屋工業大学",
           "count": 3
         },
         {
-          "rank": 23,
-          "official_name": "新潟大学",
+          "rank": 24,
+          "official_name": "東京都立大学",
           "count": 3
         },
         {
-          "rank": 23,
+          "rank": 24,
+          "official_name": "琉球大学",
+          "count": 3
+        },
+        {
+          "rank": 24,
           "official_name": "金沢大学",
           "count": 3
         },
         {
-          "rank": 23,
+          "rank": 24,
           "official_name": "静岡大学",
           "count": 3
         },
         {
-          "rank": 28,
+          "rank": 24,
+          "official_name": "香港科技大学",
+          "count": 3
+        },
+        {
+          "rank": 32,
           "official_name": "NTT株式会社",
           "count": 2
         },
         {
-          "rank": 28,
-          "official_name": "三重大学",
-          "count": 2
-        },
-        {
-          "rank": 28,
+          "rank": 32,
           "official_name": "中央大学",
           "count": 2
         },
         {
-          "rank": 28,
+          "rank": 32,
           "official_name": "信州大学",
           "count": 2
         },
         {
-          "rank": 28,
+          "rank": 32,
           "official_name": "大阪電気通信大学",
           "count": 2
         },
         {
-          "rank": 28,
+          "rank": 32,
+          "official_name": "室蘭工業大学",
+          "count": 2
+        },
+        {
+          "rank": 32,
           "official_name": "山形大学",
           "count": 2
         },
         {
-          "rank": 28,
-          "official_name": "東京都立大学",
+          "rank": 32,
+          "official_name": "岐阜大学",
           "count": 2
         },
         {
-          "rank": 28,
+          "rank": 32,
+          "official_name": "明治大学",
+          "count": 2
+        },
+        {
+          "rank": 32,
           "official_name": "東邦大学",
           "count": 2
         },
         {
-          "rank": 28,
+          "rank": 32,
+          "official_name": "沖縄科学技術大学院大学",
+          "count": 2
+        },
+        {
+          "rank": 32,
           "official_name": "海洋研究開発機構",
           "count": 2
         },
         {
-          "rank": 28,
+          "rank": 32,
           "official_name": "物質・材料研究機構",
           "count": 2
         },
         {
-          "rank": 28,
+          "rank": 32,
           "official_name": "神戸大学",
           "count": 2
         },
         {
-          "rank": 28,
+          "rank": 32,
           "official_name": "福岡工業大学",
           "count": 2
         },
         {
-          "rank": 28,
+          "rank": 32,
           "official_name": "立命館大学",
           "count": 2
         },
         {
-          "rank": 28,
+          "rank": 32,
           "official_name": "総合研究大学院大学",
           "count": 2
         },
         {
-          "rank": 28,
+          "rank": 32,
           "official_name": "青山学院大学",
           "count": 2
         },
         {
-          "rank": 28,
+          "rank": 32,
+          "official_name": "高エネルギー加速器研究機構",
+          "count": 2
+        },
+        {
+          "rank": 32,
           "official_name": "鳥取大学",
           "count": 2
         },
         {
-          "rank": 44,
+          "rank": 51,
+          "official_name": "National Center for Theoretical Sciences",
+          "count": 1
+        },
+        {
+          "rank": 51,
           "official_name": "Seoul National University",
           "count": 1
         },
         {
-          "rank": 44,
+          "rank": 51,
+          "official_name": "University of Rajshahi",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "びわこ学院大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "シグマアイ",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "セイコーエプソン",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "ハーバード大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "ボルドー大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "一橋大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "三井住友銀行",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "九州産業大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
           "official_name": "京都工芸繊維大学",
           "count": 1
         },
         {
-          "rank": 44,
+          "rank": 51,
+          "official_name": "住友化学",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "公立はこだて未来大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "函館工業高等専門学校",
+          "count": 1
+        },
+        {
+          "rank": 51,
           "official_name": "分子科学研究所",
           "count": 1
         },
         {
-          "rank": 44,
+          "rank": 51,
           "official_name": "北里大学",
           "count": 1
         },
         {
-          "rank": 44,
+          "rank": 51,
+          "official_name": "北陸先端科学技術大学院大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "医療創生大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "同志社大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "名城大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "和歌山工業高等専門学校",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "大分大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
           "official_name": "学習院大学",
           "count": 1
         },
         {
-          "rank": 44,
-          "official_name": "室蘭工業大学",
+          "rank": 51,
+          "official_name": "宇部工業高等専門学校",
           "count": 1
         },
         {
-          "rank": 44,
+          "rank": 51,
           "official_name": "富山大学",
           "count": 1
         },
         {
-          "rank": 44,
+          "rank": 51,
+          "official_name": "富山県立大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
           "official_name": "山口大学",
           "count": 1
         },
         {
-          "rank": 44,
+          "rank": 51,
           "official_name": "山梨大学",
           "count": 1
         },
         {
-          "rank": 44,
+          "rank": 51,
           "official_name": "岡山大学",
           "count": 1
         },
         {
-          "rank": 44,
+          "rank": 51,
+          "official_name": "島根大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "広島市立大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "情報通信研究機構",
+          "count": 1
+        },
+        {
+          "rank": 51,
           "official_name": "愛媛大学",
           "count": 1
         },
         {
-          "rank": 44,
-          "official_name": "明治大学",
+          "rank": 51,
+          "official_name": "愛知工科大学",
           "count": 1
         },
         {
-          "rank": 44,
+          "rank": 51,
+          "official_name": "成蹊大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "日立製作所",
+          "count": 1
+        },
+        {
+          "rank": 51,
           "official_name": "東京女子大学",
           "count": 1
         },
         {
-          "rank": 44,
+          "rank": 51,
+          "official_name": "東京海洋大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "東京第一合成",
+          "count": 1
+        },
+        {
+          "rank": 51,
           "official_name": "東海大学",
           "count": 1
         },
         {
-          "rank": 44,
+          "rank": 51,
           "official_name": "横浜国立大学",
           "count": 1
         },
         {
-          "rank": 44,
+          "rank": 51,
           "official_name": "神奈川大学",
           "count": 1
         },
         {
-          "rank": 44,
+          "rank": 51,
+          "official_name": "福岡県立大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
           "official_name": "立教大学",
           "count": 1
         },
         {
-          "rank": 44,
+          "rank": 51,
+          "official_name": "統計数理研究所",
+          "count": 1
+        },
+        {
+          "rank": 51,
           "official_name": "群馬大学",
           "count": 1
         },
         {
-          "rank": 44,
+          "rank": 51,
           "official_name": "群馬工業高等専門学校",
           "count": 1
         },
         {
-          "rank": 44,
+          "rank": 51,
+          "official_name": "芝浦工業大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "金沢学院大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "防衛大学校",
+          "count": 1
+        },
+        {
+          "rank": 51,
           "official_name": "電気通信大学",
           "count": 1
         },
         {
-          "rank": 44,
-          "official_name": "高エネルギー加速器研究機構",
+          "rank": 51,
+          "official_name": "駒澤大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "高千穂大学",
+          "count": 1
+        },
+        {
+          "rank": 51,
+          "official_name": "鹿児島大学",
           "count": 1
         }
       ]
@@ -2870,9 +4625,9 @@
         "single_author": 31,
         "explicit": 8
       },
-      "resolved_presentations": 182,
+      "resolved_presentations": 200,
       "unresolved_presenters": 0,
-      "unresolved_affiliations": 23,
+      "unresolved_affiliations": 5,
       "ranking": [
         {
           "rank": 1,
@@ -3001,6 +4756,16 @@
         },
         {
           "rank": 24,
+          "official_name": "奈良女子大学",
+          "count": 2
+        },
+        {
+          "rank": 24,
+          "official_name": "東京薬科大学",
+          "count": 2
+        },
+        {
+          "rank": 24,
           "official_name": "東京農工大学",
           "count": 2
         },
@@ -3011,7 +4776,17 @@
         },
         {
           "rank": 24,
+          "official_name": "群馬大学",
+          "count": 2
+        },
+        {
+          "rank": 24,
           "official_name": "茨城大学",
+          "count": 2
+        },
+        {
+          "rank": 24,
+          "official_name": "順天堂大学",
           "count": 2
         },
         {
@@ -3020,68 +4795,118 @@
           "count": 2
         },
         {
-          "rank": 30,
+          "rank": 34,
+          "official_name": "Abdus Salam International Centre for Theoretical Physics",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "Academia Sinica",
+          "count": 1
+        },
+        {
+          "rank": 34,
           "official_name": "中央大学",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 34,
           "official_name": "九州工業大学",
           "count": 1
         },
         {
-          "rank": 30,
-          "official_name": "奈良女子大学",
+          "rank": 34,
+          "official_name": "公立はこだて未来大学",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 34,
+          "official_name": "北海学園大学",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "北陸先端科学技術大学院大学",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "城西大学",
+          "count": 1
+        },
+        {
+          "rank": 34,
           "official_name": "岡山大学",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 34,
           "official_name": "日本原子力研究開発機構",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 34,
+          "official_name": "明星大学",
+          "count": 1
+        },
+        {
+          "rank": 34,
           "official_name": "明治大学",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 34,
+          "official_name": "東京都市大学",
+          "count": 1
+        },
+        {
+          "rank": 34,
           "official_name": "核融合科学研究所",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 34,
+          "official_name": "横浜市立大学",
+          "count": 1
+        },
+        {
+          "rank": 34,
           "official_name": "沖縄科学技術大学院大学",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 34,
           "official_name": "沼津工業高等専門学校",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 34,
           "official_name": "物質・材料研究機構",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 34,
           "official_name": "福井大学",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 34,
+          "official_name": "秋田工業高等専門学校",
+          "count": 1
+        },
+        {
+          "rank": 34,
           "official_name": "総合科学研究機構",
           "count": 1
         },
         {
-          "rank": 30,
-          "official_name": "群馬大学",
+          "rank": 34,
+          "official_name": "豊田中央研究所",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "高知大学",
           "count": 1
         }
       ]
@@ -3093,9 +4918,9 @@
         "inferred_first_author": 33,
         "explicit": 3
       },
-      "resolved_presentations": 42,
+      "resolved_presentations": 75,
       "unresolved_presenters": 0,
-      "unresolved_affiliations": 42,
+      "unresolved_affiliations": 9,
       "ranking": [
         {
           "rank": 1,
@@ -3124,7 +4949,32 @@
         },
         {
           "rank": 5,
+          "official_name": "京都女子大学",
+          "count": 2
+        },
+        {
+          "rank": 5,
+          "official_name": "京都教育大学",
+          "count": 2
+        },
+        {
+          "rank": 5,
+          "official_name": "北海道教育大学",
+          "count": 2
+        },
+        {
+          "rank": 5,
+          "official_name": "早稲田大学",
+          "count": 2
+        },
+        {
+          "rank": 5,
           "official_name": "東京大学",
+          "count": 2
+        },
+        {
+          "rank": 5,
+          "official_name": "東京学芸大学",
           "count": 2
         },
         {
@@ -3144,87 +4994,187 @@
         },
         {
           "rank": 5,
+          "official_name": "群馬大学",
+          "count": 2
+        },
+        {
+          "rank": 5,
+          "official_name": "金沢工業大学",
+          "count": 2
+        },
+        {
+          "rank": 5,
+          "official_name": "防衛医科大学校",
+          "count": 2
+        },
+        {
+          "rank": 5,
           "official_name": "香川大学",
           "count": 2
         },
         {
-          "rank": 11,
+          "rank": 19,
+          "official_name": "佐賀大学",
+          "count": 1
+        },
+        {
+          "rank": 19,
           "official_name": "兵庫県立大学",
           "count": 1
         },
         {
-          "rank": 11,
+          "rank": 19,
           "official_name": "北海道大学",
           "count": 1
         },
         {
-          "rank": 11,
+          "rank": 19,
+          "official_name": "千葉県立千葉高等学校",
+          "count": 1
+        },
+        {
+          "rank": 19,
           "official_name": "名古屋大学",
           "count": 1
         },
         {
-          "rank": 11,
+          "rank": 19,
+          "official_name": "埼玉医科大学",
+          "count": 1
+        },
+        {
+          "rank": 19,
           "official_name": "大阪工業大学",
           "count": 1
         },
         {
-          "rank": 11,
+          "rank": 19,
+          "official_name": "富山県立大学",
+          "count": 1
+        },
+        {
+          "rank": 19,
+          "official_name": "岐阜大学",
+          "count": 1
+        },
+        {
+          "rank": 19,
+          "official_name": "岡山商科大学",
+          "count": 1
+        },
+        {
+          "rank": 19,
           "official_name": "岩手大学",
           "count": 1
         },
         {
-          "rank": 11,
+          "rank": 19,
+          "official_name": "帯広畜産大学",
+          "count": 1
+        },
+        {
+          "rank": 19,
+          "official_name": "愛知教育大学",
+          "count": 1
+        },
+        {
+          "rank": 19,
           "official_name": "慶應義塾大学",
           "count": 1
         },
         {
-          "rank": 11,
+          "rank": 19,
+          "official_name": "成城大学",
+          "count": 1
+        },
+        {
+          "rank": 19,
           "official_name": "新潟大学",
           "count": 1
         },
         {
-          "rank": 11,
-          "official_name": "早稲田大学",
+          "rank": 19,
+          "official_name": "日本文理大学",
           "count": 1
         },
         {
-          "rank": 11,
+          "rank": 19,
+          "official_name": "杏林大学",
+          "count": 1
+        },
+        {
+          "rank": 19,
           "official_name": "東京女子大学",
           "count": 1
         },
         {
-          "rank": 11,
+          "rank": 19,
+          "official_name": "東京学芸大学附属高等学校",
+          "count": 1
+        },
+        {
+          "rank": 19,
+          "official_name": "東京第一合成",
+          "count": 1
+        },
+        {
+          "rank": 19,
+          "official_name": "浙江大学",
+          "count": 1
+        },
+        {
+          "rank": 19,
           "official_name": "物質・材料研究機構",
           "count": 1
         },
         {
-          "rank": 11,
+          "rank": 19,
           "official_name": "理化学研究所",
           "count": 1
         },
         {
-          "rank": 11,
+          "rank": 19,
+          "official_name": "理科実験サポートネット",
+          "count": 1
+        },
+        {
+          "rank": 19,
           "official_name": "神戸大学",
           "count": 1
         },
         {
-          "rank": 11,
+          "rank": 19,
           "official_name": "筑波大学",
           "count": 1
         },
         {
-          "rank": 11,
-          "official_name": "群馬大学",
-          "count": 1
-        },
-        {
-          "rank": 11,
+          "rank": 19,
           "official_name": "芝浦工業大学",
           "count": 1
         },
         {
-          "rank": 11,
+          "rank": 19,
+          "official_name": "金沢大学附属高等学校",
+          "count": 1
+        },
+        {
+          "rank": 19,
+          "official_name": "順天堂大学",
+          "count": 1
+        },
+        {
+          "rank": 19,
           "official_name": "高エネルギー加速器研究機構",
+          "count": 1
+        },
+        {
+          "rank": 19,
+          "official_name": "高知工科大学",
+          "count": 1
+        },
+        {
+          "rank": 19,
+          "official_name": "龍谷大学",
           "count": 1
         }
       ]
@@ -3236,14 +5186,14 @@
         "explicit": 61,
         "single_author": 33
       },
-      "resolved_presentations": 155,
+      "resolved_presentations": 190,
       "unresolved_presenters": 0,
-      "unresolved_affiliations": 41,
+      "unresolved_affiliations": 6,
       "ranking": [
         {
           "rank": 1,
           "official_name": "京都大学",
-          "count": 24
+          "count": 25
         },
         {
           "rank": 2,
@@ -3261,23 +5211,23 @@
           "count": 9
         },
         {
-          "rank": 5,
+          "rank": 4,
+          "official_name": "高エネルギー加速器研究機構",
+          "count": 9
+        },
+        {
+          "rank": 6,
           "official_name": "九州大学",
           "count": 8
         },
         {
-          "rank": 5,
+          "rank": 6,
           "official_name": "東京大学",
           "count": 8
         },
         {
-          "rank": 7,
+          "rank": 8,
           "official_name": "筑波大学",
-          "count": 7
-        },
-        {
-          "rank": 7,
-          "official_name": "高エネルギー加速器研究機構",
           "count": 7
         },
         {
@@ -3296,73 +5246,88 @@
           "count": 5
         },
         {
-          "rank": 12,
+          "rank": 10,
+          "official_name": "茨城大学",
+          "count": 5
+        },
+        {
+          "rank": 13,
+          "official_name": "千葉大学",
+          "count": 4
+        },
+        {
+          "rank": 13,
           "official_name": "新潟大学",
           "count": 4
         },
         {
-          "rank": 12,
+          "rank": 13,
           "official_name": "立教大学",
           "count": 4
         },
         {
-          "rank": 12,
+          "rank": 13,
           "official_name": "総合研究大学院大学",
           "count": 4
         },
         {
-          "rank": 12,
-          "official_name": "茨城大学",
-          "count": 4
-        },
-        {
-          "rank": 12,
+          "rank": 13,
           "official_name": "近畿大学",
           "count": 4
         },
         {
-          "rank": 17,
+          "rank": 18,
           "official_name": "北里大学",
           "count": 3
         },
         {
-          "rank": 17,
-          "official_name": "千葉大学",
-          "count": 3
-        },
-        {
-          "rank": 17,
+          "rank": 18,
           "official_name": "名古屋大学",
           "count": 3
         },
         {
-          "rank": 17,
+          "rank": 18,
           "official_name": "奈良女子大学",
           "count": 3
         },
         {
-          "rank": 17,
+          "rank": 18,
           "official_name": "東京科学大学",
           "count": 3
         },
         {
-          "rank": 17,
+          "rank": 18,
           "official_name": "東海大学",
           "count": 3
         },
         {
-          "rank": 17,
+          "rank": 18,
           "official_name": "横浜国立大学",
           "count": 3
         },
         {
-          "rank": 17,
+          "rank": 18,
           "official_name": "静岡大学",
           "count": 3
         },
         {
           "rank": 25,
           "official_name": "中央大学",
+          "count": 2
+        },
+        {
+          "rank": 25,
+          "official_name": "埼玉大学",
+          "count": 2
+        },
+        {
+          "rank": 25,
+          "official_name": "広島大学",
+          "count": 2
+        },
+        {
+          "rank": 25,
+          "official_name": "成蹊大学",
           "count": 2
         },
         {
@@ -3377,6 +5342,11 @@
         },
         {
           "rank": 25,
+          "official_name": "熊本保健科学大学",
+          "count": 2
+        },
+        {
+          "rank": 25,
           "official_name": "神戸大学",
           "count": 2
         },
@@ -3386,33 +5356,143 @@
           "count": 2
         },
         {
-          "rank": 30,
-          "official_name": "埼玉大学",
+          "rank": 34,
+          "official_name": "マギル大学",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 34,
+          "official_name": "九州産業大学",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "二松学舎大学",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "京都大学基礎物理学研究所",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "京都府立医科大学",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "函館工業高等専門学校",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "国立台湾大学",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "埼玉工業大学",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "大阪公立大学工業高等専門学校",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "奈良教育大学",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "奥羽大学",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "学校法人開智学園",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "宮崎大学",
+          "count": 1
+        },
+        {
+          "rank": 34,
           "official_name": "山形大学",
           "count": 1
         },
         {
-          "rank": 30,
-          "official_name": "広島大学",
-          "count": 1
-        },
-        {
-          "rank": 30,
+          "rank": 34,
           "official_name": "弘前大学",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 34,
+          "official_name": "早稲田大学",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "明海大学",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "東京大学カブリ数物連携宇宙研究機構",
+          "count": 1
+        },
+        {
+          "rank": 34,
           "official_name": "東京女子大学",
           "count": 1
         },
         {
-          "rank": 30,
+          "rank": 34,
+          "official_name": "沖縄工業高等専門学校",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "無所属",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "獨協医科大学",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "福島工業高等専門学校",
+          "count": 1
+        },
+        {
+          "rank": 34,
           "official_name": "立命館大学",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "都城工業高等専門学校",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "関西大学",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "静岡県立大学",
+          "count": 1
+        },
+        {
+          "rank": 34,
+          "official_name": "順天堂大学",
           "count": 1
         }
       ]
@@ -3424,19 +5504,19 @@
         "explicit": 3,
         "single_author": 39
       },
-      "resolved_presentations": 206,
+      "resolved_presentations": 226,
       "unresolved_presenters": 0,
-      "unresolved_affiliations": 24,
+      "unresolved_affiliations": 4,
       "ranking": [
         {
           "rank": 1,
           "official_name": "東京大学",
-          "count": 49
+          "count": 50
         },
         {
           "rank": 2,
           "official_name": "高エネルギー加速器研究機構",
-          "count": 22
+          "count": 24
         },
         {
           "rank": 3,
@@ -3456,7 +5536,7 @@
         {
           "rank": 6,
           "official_name": "東北大学",
-          "count": 10
+          "count": 11
         },
         {
           "rank": 7,
@@ -3474,117 +5554,152 @@
           "count": 7
         },
         {
-          "rank": 10,
+          "rank": 9,
+          "official_name": "新潟大学",
+          "count": 7
+        },
+        {
+          "rank": 11,
           "official_name": "慶應義塾大学",
           "count": 6
         },
         {
-          "rank": 10,
+          "rank": 11,
+          "official_name": "神戸大学",
+          "count": 6
+        },
+        {
+          "rank": 11,
           "official_name": "総合研究大学院大学",
           "count": 6
         },
         {
-          "rank": 12,
+          "rank": 14,
           "official_name": "広島大学",
           "count": 5
         },
         {
-          "rank": 12,
+          "rank": 14,
           "official_name": "早稲田大学",
           "count": 5
         },
         {
-          "rank": 12,
+          "rank": 14,
           "official_name": "東京科学大学",
           "count": 5
         },
         {
-          "rank": 12,
-          "official_name": "神戸大学",
+          "rank": 14,
+          "official_name": "横浜国立大学",
           "count": 5
         },
         {
-          "rank": 16,
+          "rank": 18,
           "official_name": "東京都立大学",
           "count": 4
         },
         {
-          "rank": 16,
-          "official_name": "横浜国立大学",
-          "count": 4
-        },
-        {
-          "rank": 18,
-          "official_name": "理化学研究所",
+          "rank": 19,
+          "official_name": "大阪公立大学",
           "count": 3
         },
         {
           "rank": 19,
+          "official_name": "理化学研究所",
+          "count": 3
+        },
+        {
+          "rank": 21,
           "official_name": "信州大学",
           "count": 2
         },
         {
-          "rank": 19,
-          "official_name": "大阪公立大学",
-          "count": 2
-        },
-        {
-          "rank": 19,
+          "rank": 21,
           "official_name": "奈良女子大学",
           "count": 2
         },
         {
-          "rank": 19,
+          "rank": 21,
           "official_name": "東京理科大学",
           "count": 2
         },
         {
-          "rank": 19,
+          "rank": 21,
           "official_name": "筑波大学",
           "count": 2
         },
         {
-          "rank": 24,
+          "rank": 25,
+          "official_name": "ILANCE",
+          "count": 1
+        },
+        {
+          "rank": 25,
+          "official_name": "IQM Quantum Computers",
+          "count": 1
+        },
+        {
+          "rank": 25,
+          "official_name": "KEK QUP",
+          "count": 1
+        },
+        {
+          "rank": 25,
+          "official_name": "Paul Scherrer Institute",
+          "count": 1
+        },
+        {
+          "rank": 25,
+          "official_name": "University of Naples Federico II",
+          "count": 1
+        },
+        {
+          "rank": 25,
           "official_name": "お茶の水女子大学",
           "count": 1
         },
         {
-          "rank": 24,
+          "rank": 25,
           "official_name": "北里大学",
           "count": 1
         },
         {
-          "rank": 24,
+          "rank": 25,
           "official_name": "富山大学",
           "count": 1
         },
         {
-          "rank": 24,
+          "rank": 25,
           "official_name": "岩手大学",
           "count": 1
         },
         {
-          "rank": 24,
+          "rank": 25,
+          "official_name": "広島工業大学",
+          "count": 1
+        },
+        {
+          "rank": 25,
           "official_name": "弘前大学",
           "count": 1
         },
         {
-          "rank": 24,
-          "official_name": "新潟大学",
+          "rank": 25,
+          "official_name": "新居浜工業高等専門学校",
           "count": 1
         },
         {
-          "rank": 24,
+          "rank": 25,
           "official_name": "東邦大学",
           "count": 1
         },
         {
-          "rank": 24,
+          "rank": 25,
           "official_name": "神奈川大学",
           "count": 1
         },
         {
-          "rank": 24,
+          "rank": 25,
           "official_name": "金沢大学",
           "count": 1
         }
@@ -3597,9 +5712,9 @@
         "explicit": 8,
         "single_author": 28
       },
-      "resolved_presentations": 99,
+      "resolved_presentations": 121,
       "unresolved_presenters": 0,
-      "unresolved_affiliations": 23,
+      "unresolved_affiliations": 1,
       "ranking": [
         {
           "rank": 1,
@@ -3648,6 +5763,11 @@
         },
         {
           "rank": 10,
+          "official_name": "Institute for Basic Science",
+          "count": 3
+        },
+        {
+          "rank": 10,
           "official_name": "名古屋大学",
           "count": 3
         },
@@ -3657,88 +5777,163 @@
           "count": 3
         },
         {
-          "rank": 12,
+          "rank": 13,
           "official_name": "千葉大学",
           "count": 2
         },
         {
-          "rank": 12,
+          "rank": 13,
+          "official_name": "埼玉大学",
+          "count": 2
+        },
+        {
+          "rank": 13,
           "official_name": "大阪公立大学",
           "count": 2
         },
         {
-          "rank": 12,
+          "rank": 13,
           "official_name": "大阪工業大学",
           "count": 2
         },
         {
-          "rank": 12,
+          "rank": 13,
+          "official_name": "新潟大学",
+          "count": 2
+        },
+        {
+          "rank": 13,
           "official_name": "東京都立大学",
           "count": 2
         },
         {
-          "rank": 16,
+          "rank": 13,
+          "official_name": "近畿大学",
+          "count": 2
+        },
+        {
+          "rank": 13,
+          "official_name": "高知大学",
+          "count": 2
+        },
+        {
+          "rank": 21,
+          "official_name": "Sejong University",
+          "count": 1
+        },
+        {
+          "rank": 21,
+          "official_name": "京都大学基礎物理学研究所",
+          "count": 1
+        },
+        {
+          "rank": 21,
+          "official_name": "京都府立大学",
+          "count": 1
+        },
+        {
+          "rank": 21,
           "official_name": "京都産業大学",
           "count": 1
         },
         {
-          "rank": 16,
+          "rank": 21,
+          "official_name": "千葉工業大学",
+          "count": 1
+        },
+        {
+          "rank": 21,
           "official_name": "名古屋工業大学",
           "count": 1
         },
         {
-          "rank": 16,
-          "official_name": "埼玉大学",
-          "count": 1
-        },
-        {
-          "rank": 16,
+          "rank": 21,
           "official_name": "大阪電気通信大学",
           "count": 1
         },
         {
-          "rank": 16,
+          "rank": 21,
+          "official_name": "安徽理工大学",
+          "count": 1
+        },
+        {
+          "rank": 21,
           "official_name": "山形大学",
           "count": 1
         },
         {
-          "rank": 16,
+          "rank": 21,
+          "official_name": "岐阜大学",
+          "count": 1
+        },
+        {
+          "rank": 21,
+          "official_name": "岐阜工業高等専門学校",
+          "count": 1
+        },
+        {
+          "rank": 21,
+          "official_name": "崇実大学校",
+          "count": 1
+        },
+        {
+          "rank": 21,
           "official_name": "広島大学",
           "count": 1
         },
         {
-          "rank": 16,
+          "rank": 21,
           "official_name": "慶應義塾大学",
           "count": 1
         },
         {
-          "rank": 16,
-          "official_name": "新潟大学",
-          "count": 1
-        },
-        {
-          "rank": 16,
+          "rank": 21,
           "official_name": "日本大学",
           "count": 1
         },
         {
-          "rank": 16,
+          "rank": 21,
+          "official_name": "日本工業大学",
+          "count": 1
+        },
+        {
+          "rank": 21,
+          "official_name": "札幌学院大学",
+          "count": 1
+        },
+        {
+          "rank": 21,
+          "official_name": "松江工業高等専門学校",
+          "count": 1
+        },
+        {
+          "rank": 21,
           "official_name": "沼津工業高等専門学校",
           "count": 1
         },
         {
-          "rank": 16,
+          "rank": 21,
           "official_name": "福井大学",
           "count": 1
         },
         {
-          "rank": 16,
+          "rank": 21,
           "official_name": "群馬工業高等専門学校",
           "count": 1
         },
         {
-          "rank": 16,
-          "official_name": "近畿大学",
+          "rank": 21,
+          "official_name": "茨城工業高等専門学校",
+          "count": 1
+        },
+        {
+          "rank": 21,
+          "official_name": "鈴鹿工業高等専門学校",
+          "count": 1
+        },
+        {
+          "rank": 21,
+          "official_name": "順天堂大学",
           "count": 1
         }
       ]
@@ -3750,9 +5945,9 @@
         "single_author": 29,
         "explicit": 1
       },
-      "resolved_presentations": 174,
+      "resolved_presentations": 193,
       "unresolved_presenters": 0,
-      "unresolved_affiliations": 25,
+      "unresolved_affiliations": 6,
       "ranking": [
         {
           "rank": 1,
@@ -3772,7 +5967,7 @@
         {
           "rank": 4,
           "official_name": "東京大学",
-          "count": 16
+          "count": 17
         },
         {
           "rank": 5,
@@ -3781,26 +5976,26 @@
         },
         {
           "rank": 6,
+          "official_name": "広島大学",
+          "count": 9
+        },
+        {
+          "rank": 6,
           "official_name": "筑波大学",
           "count": 9
         },
         {
-          "rank": 7,
+          "rank": 8,
           "official_name": "九州大学",
           "count": 7
         },
         {
-          "rank": 7,
+          "rank": 8,
           "official_name": "京都大学",
           "count": 7
         },
         {
-          "rank": 9,
-          "official_name": "広島大学",
-          "count": 6
-        },
-        {
-          "rank": 9,
+          "rank": 10,
           "official_name": "東京科学大学",
           "count": 6
         },
@@ -3821,26 +6016,26 @@
         },
         {
           "rank": 13,
+          "official_name": "奈良女子大学",
+          "count": 4
+        },
+        {
+          "rank": 13,
           "official_name": "神戸大学",
           "count": 4
         },
         {
-          "rank": 15,
+          "rank": 16,
           "official_name": "上智大学",
           "count": 3
         },
         {
-          "rank": 15,
-          "official_name": "奈良女子大学",
-          "count": 3
-        },
-        {
-          "rank": 15,
+          "rank": 16,
           "official_name": "岡山大学",
           "count": 3
         },
         {
-          "rank": 15,
+          "rank": 16,
           "official_name": "東邦大学",
           "count": 3
         },
@@ -3876,12 +6071,62 @@
         },
         {
           "rank": 25,
+          "official_name": "Academia Sinica",
+          "count": 1
+        },
+        {
+          "rank": 25,
+          "official_name": "Korea University",
+          "count": 1
+        },
+        {
+          "rank": 25,
+          "official_name": "Pukyong National University",
+          "count": 1
+        },
+        {
+          "rank": 25,
+          "official_name": "Sejong University",
+          "count": 1
+        },
+        {
+          "rank": 25,
+          "official_name": "シャレンノマド",
+          "count": 1
+        },
+        {
+          "rank": 25,
+          "official_name": "公立諏訪東京理科大学",
+          "count": 1
+        },
+        {
+          "rank": 25,
+          "official_name": "国際教養大学",
+          "count": 1
+        },
+        {
+          "rank": 25,
+          "official_name": "大島商船高等専門学校",
+          "count": 1
+        },
+        {
+          "rank": 25,
           "official_name": "大阪電気通信大学",
           "count": 1
         },
         {
           "rank": 25,
           "official_name": "宇宙航空研究開発機構",
+          "count": 1
+        },
+        {
+          "rank": 25,
+          "official_name": "宮崎大学",
+          "count": 1
+        },
+        {
+          "rank": 25,
+          "official_name": "徳島大学",
           "count": 1
         },
         {
@@ -3901,7 +6146,27 @@
         },
         {
           "rank": 25,
+          "official_name": "東京都市大学",
+          "count": 1
+        },
+        {
+          "rank": 25,
+          "official_name": "松江工業高等専門学校",
+          "count": 1
+        },
+        {
+          "rank": 25,
+          "official_name": "理化学研究所仁科加速器科学研究センター",
+          "count": 1
+        },
+        {
+          "rank": 25,
           "official_name": "総合研究大学院大学",
+          "count": 1
+        },
+        {
+          "rank": 25,
+          "official_name": "近代物理学研究所",
           "count": 1
         }
       ]
@@ -3913,14 +6178,14 @@
         "single_author": 39,
         "explicit": 12
       },
-      "resolved_presentations": 253,
+      "resolved_presentations": 291,
       "unresolved_presenters": 0,
-      "unresolved_affiliations": 43,
+      "unresolved_affiliations": 5,
       "ranking": [
         {
           "rank": 1,
           "official_name": "東京大学",
-          "count": 71
+          "count": 73
         },
         {
           "rank": 2,
@@ -3954,207 +6219,337 @@
         },
         {
           "rank": 7,
+          "official_name": "早稲田大学",
+          "count": 8
+        },
+        {
+          "rank": 7,
           "official_name": "立教大学",
           "count": 8
         },
         {
-          "rank": 9,
-          "official_name": "早稲田大学",
+          "rank": 10,
+          "official_name": "神戸大学",
           "count": 7
         },
         {
-          "rank": 10,
+          "rank": 11,
           "official_name": "国立天文台",
           "count": 6
         },
         {
-          "rank": 11,
+          "rank": 12,
           "official_name": "山形大学",
           "count": 5
         },
         {
-          "rank": 11,
-          "official_name": "神戸大学",
+          "rank": 12,
+          "official_name": "福島大学",
           "count": 5
         },
         {
-          "rank": 13,
+          "rank": 14,
           "official_name": "九州大学",
           "count": 4
         },
         {
-          "rank": 13,
+          "rank": 14,
           "official_name": "大阪大学",
           "count": 4
         },
         {
-          "rank": 13,
+          "rank": 14,
+          "official_name": "富山大学",
+          "count": 4
+        },
+        {
+          "rank": 14,
           "official_name": "岡山大学",
           "count": 4
         },
         {
-          "rank": 13,
+          "rank": 14,
           "official_name": "東京科学大学",
           "count": 4
         },
         {
-          "rank": 13,
-          "official_name": "福島大学",
-          "count": 4
-        },
-        {
-          "rank": 13,
+          "rank": 14,
           "official_name": "総合研究大学院大学",
           "count": 4
         },
         {
-          "rank": 19,
+          "rank": 20,
           "official_name": "お茶の水女子大学",
           "count": 3
         },
         {
-          "rank": 19,
+          "rank": 20,
+          "official_name": "中部大学",
+          "count": 3
+        },
+        {
+          "rank": 20,
+          "official_name": "岡山理科大学",
+          "count": 3
+        },
+        {
+          "rank": 20,
           "official_name": "東京理科大学",
           "count": 3
         },
         {
-          "rank": 19,
+          "rank": 20,
           "official_name": "横浜国立大学",
           "count": 3
         },
         {
-          "rank": 19,
+          "rank": 20,
           "official_name": "理化学研究所",
           "count": 3
         },
         {
-          "rank": 19,
+          "rank": 20,
           "official_name": "神奈川大学",
           "count": 3
         },
         {
-          "rank": 24,
+          "rank": 20,
+          "official_name": "近畿大学",
+          "count": 3
+        },
+        {
+          "rank": 28,
           "official_name": "北海道大学",
           "count": 2
         },
         {
-          "rank": 24,
+          "rank": 28,
           "official_name": "大阪電気通信大学",
           "count": 2
         },
         {
-          "rank": 24,
+          "rank": 28,
           "official_name": "宇宙航空研究開発機構",
           "count": 2
         },
         {
-          "rank": 24,
-          "official_name": "富山大学",
-          "count": 2
-        },
-        {
-          "rank": 24,
-          "official_name": "岡山理科大学",
-          "count": 2
-        },
-        {
-          "rank": 24,
+          "rank": 28,
           "official_name": "日本大学",
           "count": 2
         },
         {
-          "rank": 24,
+          "rank": 28,
           "official_name": "東海大学",
           "count": 2
         },
         {
-          "rank": 24,
+          "rank": 28,
           "official_name": "法政大学",
           "count": 2
         },
         {
-          "rank": 24,
+          "rank": 28,
           "official_name": "茨城大学",
           "count": 2
         },
         {
-          "rank": 24,
+          "rank": 28,
           "official_name": "豊田工業大学",
           "count": 2
         },
         {
-          "rank": 24,
-          "official_name": "近畿大学",
-          "count": 2
+          "rank": 36,
+          "official_name": "Institute for Basic Science",
+          "count": 1
         },
         {
-          "rank": 35,
+          "rank": 36,
+          "official_name": "Karlsruhe Institute of Technology",
+          "count": 1
+        },
+        {
+          "rank": 36,
+          "official_name": "King's College London",
+          "count": 1
+        },
+        {
+          "rank": 36,
           "official_name": "NTT株式会社",
           "count": 1
         },
         {
-          "rank": 35,
-          "official_name": "中部大学",
+          "rank": 36,
+          "official_name": "エルライ",
           "count": 1
         },
         {
-          "rank": 35,
+          "rank": 36,
           "official_name": "京都産業大学",
           "count": 1
         },
         {
-          "rank": 35,
+          "rank": 36,
+          "official_name": "佐賀大学",
+          "count": 1
+        },
+        {
+          "rank": 36,
+          "official_name": "公立はこだて未来大学",
+          "count": 1
+        },
+        {
+          "rank": 36,
+          "official_name": "公立諏訪東京理科大学",
+          "count": 1
+        },
+        {
+          "rank": 36,
+          "official_name": "兵庫教育大学",
+          "count": 1
+        },
+        {
+          "rank": 36,
           "official_name": "北里大学",
           "count": 1
         },
         {
-          "rank": 35,
+          "rank": 36,
+          "official_name": "国士舘大学",
+          "count": 1
+        },
+        {
+          "rank": 36,
+          "official_name": "大同大学",
+          "count": 1
+        },
+        {
+          "rank": 36,
+          "official_name": "奈良教育大学",
+          "count": 1
+        },
+        {
+          "rank": 36,
           "official_name": "学習院大学",
           "count": 1
         },
         {
-          "rank": 35,
+          "rank": 36,
+          "official_name": "宇宙航空研究開発機構宇宙科学研究所",
+          "count": 1
+        },
+        {
+          "rank": 36,
+          "official_name": "宮崎大学",
+          "count": 1
+        },
+        {
+          "rank": 36,
+          "official_name": "富士通",
+          "count": 1
+        },
+        {
+          "rank": 36,
+          "official_name": "小山工業高等専門学校",
+          "count": 1
+        },
+        {
+          "rank": 36,
           "official_name": "山口大学",
           "count": 1
         },
         {
-          "rank": 35,
+          "rank": 36,
           "official_name": "慶應義塾大学",
           "count": 1
         },
         {
-          "rank": 35,
+          "rank": 36,
           "official_name": "放送大学",
           "count": 1
         },
         {
-          "rank": 35,
+          "rank": 36,
           "official_name": "日本原子力研究開発機構",
           "count": 1
         },
         {
-          "rank": 35,
+          "rank": 36,
+          "official_name": "東京大学カブリ数物連携宇宙研究機構",
+          "count": 1
+        },
+        {
+          "rank": 36,
           "official_name": "東京都立大学",
           "count": 1
         },
         {
-          "rank": 35,
+          "rank": 36,
+          "official_name": "東京都立産業技術高等専門学校",
+          "count": 1
+        },
+        {
+          "rank": 36,
           "official_name": "沖縄科学技術大学院大学",
           "count": 1
         },
         {
-          "rank": 35,
+          "rank": 36,
           "official_name": "沼津工業高等専門学校",
           "count": 1
         },
         {
-          "rank": 35,
+          "rank": 36,
+          "official_name": "無所属",
+          "count": 1
+        },
+        {
+          "rank": 36,
+          "official_name": "熊本学園大学",
+          "count": 1
+        },
+        {
+          "rank": 36,
+          "official_name": "甲南大学",
+          "count": 1
+        },
+        {
+          "rank": 36,
+          "official_name": "石川工業高等専門学校",
+          "count": 1
+        },
+        {
+          "rank": 36,
+          "official_name": "福岡教育大学",
+          "count": 1
+        },
+        {
+          "rank": 36,
+          "official_name": "第一工科大学",
+          "count": 1
+        },
+        {
+          "rank": 36,
+          "official_name": "芝浦工業大学",
+          "count": 1
+        },
+        {
+          "rank": 36,
           "official_name": "金沢大学",
           "count": 1
         },
         {
-          "rank": 35,
+          "rank": 36,
+          "official_name": "開智所沢中等教育学校",
+          "count": 1
+        },
+        {
+          "rank": 36,
           "official_name": "高エネルギー加速器研究機構",
+          "count": 1
+        },
+        {
+          "rank": 36,
+          "official_name": "高等師範学校（パリ）",
           "count": 1
         }
       ]
@@ -4166,22 +6561,22 @@
         "single_author": 35,
         "explicit": 1
       },
-      "resolved_presentations": 62,
+      "resolved_presentations": 67,
       "unresolved_presenters": 0,
-      "unresolved_affiliations": 11,
+      "unresolved_affiliations": 6,
       "ranking": [
         {
           "rank": 1,
           "official_name": "高エネルギー加速器研究機構",
-          "count": 10
+          "count": 12
         },
         {
           "rank": 2,
           "official_name": "大阪大学",
-          "count": 9
+          "count": 10
         },
         {
-          "rank": 2,
+          "rank": 3,
           "official_name": "量子科学技術研究開発機構",
           "count": 9
         },
@@ -4214,6 +6609,11 @@
           "rank": 8,
           "official_name": "総合研究大学院大学",
           "count": 2
+        },
+        {
+          "rank": 10,
+          "official_name": "National Academy of Taiwan",
+          "count": 1
         },
         {
           "rank": 10,
@@ -4262,6 +6662,11 @@
         },
         {
           "rank": 10,
+          "official_name": "若狭湾エネルギー研究センター",
+          "count": 1
+        },
+        {
+          "rank": 10,
           "official_name": "茨城大学",
           "count": 1
         }
@@ -4274,9 +6679,9 @@
         "explicit": 9,
         "single_author": 24
       },
-      "resolved_presentations": 88,
+      "resolved_presentations": 109,
       "unresolved_presenters": 0,
-      "unresolved_affiliations": 25,
+      "unresolved_affiliations": 4,
       "ranking": [
         {
           "rank": 1,
@@ -4304,123 +6709,203 @@
           "count": 5
         },
         {
-          "rank": 6,
+          "rank": 5,
           "official_name": "慶應義塾大学",
-          "count": 4
-        },
-        {
-          "rank": 7,
-          "official_name": "上智大学",
-          "count": 3
-        },
-        {
-          "rank": 7,
-          "official_name": "名古屋大学",
-          "count": 3
+          "count": 5
         },
         {
           "rank": 7,
           "official_name": "埼玉大学",
+          "count": 4
+        },
+        {
+          "rank": 8,
+          "official_name": "上智大学",
           "count": 3
         },
         {
-          "rank": 7,
+          "rank": 8,
+          "official_name": "名古屋大学",
+          "count": 3
+        },
+        {
+          "rank": 8,
+          "official_name": "情報通信研究機構",
+          "count": 3
+        },
+        {
+          "rank": 8,
           "official_name": "東北大学",
           "count": 3
         },
         {
-          "rank": 7,
+          "rank": 8,
           "official_name": "金沢大学",
           "count": 3
         },
         {
-          "rank": 12,
+          "rank": 13,
           "official_name": "名古屋工業大学",
           "count": 2
         },
         {
-          "rank": 12,
-          "official_name": "情報通信研究機構",
+          "rank": 13,
+          "official_name": "筑波大学",
           "count": 2
         },
         {
-          "rank": 12,
+          "rank": 13,
           "official_name": "近畿大学",
           "count": 2
         },
         {
-          "rank": 12,
+          "rank": 13,
+          "official_name": "金沢工業大学",
+          "count": 2
+        },
+        {
+          "rank": 13,
           "official_name": "高エネルギー加速器研究機構",
           "count": 2
         },
         {
-          "rank": 16,
+          "rank": 18,
+          "official_name": "Middle East Technical University",
+          "count": 1
+        },
+        {
+          "rank": 18,
+          "official_name": "クオンティニュアム",
+          "count": 1
+        },
+        {
+          "rank": 18,
+          "official_name": "一橋大学",
+          "count": 1
+        },
+        {
+          "rank": 18,
+          "official_name": "一関工業高等専門学校",
+          "count": 1
+        },
+        {
+          "rank": 18,
+          "official_name": "京都府立大学",
+          "count": 1
+        },
+        {
+          "rank": 18,
+          "official_name": "富士通",
+          "count": 1
+        },
+        {
+          "rank": 18,
           "official_name": "岡山大学",
           "count": 1
         },
         {
-          "rank": 16,
+          "rank": 18,
           "official_name": "新潟大学",
           "count": 1
         },
         {
-          "rank": 16,
+          "rank": 18,
+          "official_name": "日本医科大学",
+          "count": 1
+        },
+        {
+          "rank": 18,
           "official_name": "日本原子力研究開発機構",
           "count": 1
         },
         {
-          "rank": 16,
+          "rank": 18,
+          "official_name": "明治学院大学",
+          "count": 1
+        },
+        {
+          "rank": 18,
+          "official_name": "東京医科大学",
+          "count": 1
+        },
+        {
+          "rank": 18,
           "official_name": "東京理科大学",
           "count": 1
         },
         {
-          "rank": 16,
+          "rank": 18,
           "official_name": "東京科学大学",
           "count": 1
         },
         {
-          "rank": 16,
+          "rank": 18,
           "official_name": "核融合科学研究所",
           "count": 1
         },
         {
-          "rank": 16,
+          "rank": 18,
           "official_name": "横浜国立大学",
           "count": 1
         },
         {
-          "rank": 16,
+          "rank": 18,
+          "official_name": "横浜市立大学",
+          "count": 1
+        },
+        {
+          "rank": 18,
+          "official_name": "法政大学",
+          "count": 1
+        },
+        {
+          "rank": 18,
+          "official_name": "滋賀大学",
+          "count": 1
+        },
+        {
+          "rank": 18,
+          "official_name": "無所属",
+          "count": 1
+        },
+        {
+          "rank": 18,
           "official_name": "熊本大学",
           "count": 1
         },
         {
-          "rank": 16,
+          "rank": 18,
           "official_name": "物質・材料研究機構",
           "count": 1
         },
         {
-          "rank": 16,
+          "rank": 18,
           "official_name": "立教大学",
           "count": 1
         },
         {
-          "rank": 16,
-          "official_name": "筑波大学",
-          "count": 1
-        },
-        {
-          "rank": 16,
+          "rank": 18,
           "official_name": "芝浦工業大学",
           "count": 1
         },
         {
-          "rank": 16,
+          "rank": 18,
+          "official_name": "豊田中央研究所",
+          "count": 1
+        },
+        {
+          "rank": 18,
           "official_name": "量子科学技術研究開発機構",
           "count": 1
         },
         {
-          "rank": 16,
+          "rank": 18,
           "official_name": "電気通信大学",
+          "count": 1
+        },
+        {
+          "rank": 18,
+          "official_name": "高知工科大学",
           "count": 1
         }
       ]
@@ -4430,9 +6915,9 @@
       "presenter_detection": {
         "single_author": 29
       },
-      "resolved_presentations": 21,
+      "resolved_presentations": 27,
       "unresolved_presenters": 0,
-      "unresolved_affiliations": 8,
+      "unresolved_affiliations": 2,
       "ranking": [
         {
           "rank": 1,
@@ -4461,12 +6946,42 @@
         },
         {
           "rank": 6,
+          "official_name": "Cornell University",
+          "count": 1
+        },
+        {
+          "rank": 6,
+          "official_name": "Fudan University",
+          "count": 1
+        },
+        {
+          "rank": 6,
+          "official_name": "ICFO",
+          "count": 1
+        },
+        {
+          "rank": 6,
           "official_name": "Massachusetts Institute of Technology",
           "count": 1
         },
         {
           "rank": 6,
           "official_name": "University of California, Berkeley",
+          "count": 1
+        },
+        {
+          "rank": 6,
+          "official_name": "University of Kentucky",
+          "count": 1
+        },
+        {
+          "rank": 6,
+          "official_name": "University of Wisconsin",
+          "count": 1
+        },
+        {
+          "rank": 6,
+          "official_name": "宮崎大学",
           "count": 1
         },
         {

@@ -87,6 +87,34 @@ class NormalizationTest(unittest.TestCase):
         self.assertIsNone(table.resolve('東大理・未知機関')[1])
         self.assertIsNone(table.resolve('架空大学')[1])
 
+    def test_special_affiliations_are_resolved(self):
+        table = AliasTable()
+        self.assertEqual(table.resolve('無所属'), ('無所属', '無所属', ''))
+        self.assertEqual(table.resolve('琉大理'), ('琉大理', '琉球大学', ''))
+        self.assertEqual(table.resolve('高知大'), ('高知大', '高知大学', ''))
+        self.assertEqual(table.resolve('高知大データ'), ('高知大データ', '高知大学', ''))
+        self.assertEqual(table.resolve('高知大教'), ('高知大教', '高知大学', ''))
+        self.assertEqual(table.resolve('高エネルギー加速器研究機構')[1], '高エネルギー加速器研究機構')
+        self.assertEqual(table.resolve('高エネルギー加速器研究機構素粒子原子核研究所（KEK IPNS）')[1], '高エネルギー加速器研究機構')
+        self.assertEqual(table.resolve('高エネルギー加速器研究機構（高エ研）')[1], '高エネルギー加速器研究機構')
+        self.assertEqual(table.resolve('高エネ研・物構研')[1], '高エネルギー加速器研究機構')
+        self.assertEqual(table.resolve('高エネ計セ')[1], '高エネルギー加速器研究機構')
+        for name in ('エルライ', 'キュービットコア', 'クオンティニュアム', 'シグマアイ',
+                     'シャレンノマド', 'セイコーエプソン', 'ナノアロイテクノロジー'):
+            self.assertEqual(table.resolve(name), (name, name, ''))
+        self.assertEqual(table.resolve('新大理'), ('新大理', '新潟大学', ''))
+        self.assertEqual(table.resolve('新大自'), ('新大自', '新潟大学', ''))
+        self.assertEqual(table.resolve('都市大理工'), ('都市大理工', '東京都市大学', ''))
+        self.assertEqual(table.resolve('埼玉大理'), ('埼玉大理', '埼玉大学', ''))
+        self.assertEqual(table.resolve('埼大理'), ('埼大理', '埼玉大学', ''))
+        self.assertEqual(table.resolve('国士舘大理'), ('国士舘大理', '国士舘大学', ''))
+        self.assertEqual(table.resolve('一橋大'), ('一橋大', '一橋大学', ''))
+        self.assertEqual(table.resolve('茨城大, 放送大, お茶大'), ('茨城大', '茨城大学', ''))
+        self.assertEqual(table.resolve('Dept. of Appl. Phys., Univ. of Tokyo'),
+                         ('Dept. of Appl. Phys., Univ. of Tokyo', '東京大学', ''))
+        self.assertEqual(table.resolve('IMSS, KEK, Universitat Gottingen'),
+                         ('KEK', '高エネルギー加速器研究機構', ''))
+
     def test_different_institutions_remain_separate(self):
         table = AliasTable()
         self.assertNotEqual(table.resolve('総研大')[1],table.resolve('核融合研')[1])
@@ -97,6 +125,13 @@ class NormalizationTest(unittest.TestCase):
         self.assertEqual(result['affiliation_official'],['東京大学',None])
         self.assertEqual(result['presenter_affiliation_all_raw'],row['presenter_affiliation_raw'])
         self.assertEqual(result['status'],'unresolved_affiliation')
+
+    def test_special_affiliation_is_not_unresolved(self):
+        row=dict(presenter_affiliation_raw=['無所属', '琉大理'], reasons=[],
+                 presenter_detection='explicit', area_id='area11')
+        result=normalize_row(row, AliasTable())
+        self.assertEqual(result['affiliation_official'], ['無所属', '琉球大学'])
+        self.assertEqual(result['status'], 'resolved')
 
     def test_ambiguous_alias_not_arbitrarily_selected(self):
         table=AliasTable()
